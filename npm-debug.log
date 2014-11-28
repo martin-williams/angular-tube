@@ -1471,1671 +1471,1895 @@
 911 silly mapToRegistry registry https://registry.npmjs.org/
 912 silly mapToRegistry uri https://registry.npmjs.org/should
 913 verbose addNameRange registry:https://registry.npmjs.org/should not in flight; fetching
-914 verbose request uri https://registry.npmjs.org/body-parser
+914 verbose request uri https://registry.npmjs.org/morgan
 915 verbose request no auth needed
-916 info attempt registry request try #1 at 21:36:50
-917 verbose request id 9dfb6f2eafd19433
-918 verbose etag "5X0SU04JVGRH1KU6UBX5M5BJS"
-919 http request GET https://registry.npmjs.org/body-parser
-920 verbose request uri https://registry.npmjs.org/morgan
+916 info attempt registry request try #1 at 21:38:34
+917 verbose request id 1304f93cd574f004
+918 verbose etag "A4D8HEFHF3VM613B88P1RXA9D"
+919 http request GET https://registry.npmjs.org/morgan
+920 verbose request uri https://registry.npmjs.org/serve-favicon
 921 verbose request no auth needed
-922 info attempt registry request try #1 at 21:36:50
-923 verbose etag "A4D8HEFHF3VM613B88P1RXA9D"
-924 http request GET https://registry.npmjs.org/morgan
+922 info attempt registry request try #1 at 21:38:34
+923 verbose etag "32DME59ARJISQ6B7SM9GQJ65I"
+924 http request GET https://registry.npmjs.org/serve-favicon
 925 verbose request uri https://registry.npmjs.org/method-override
 926 verbose request no auth needed
-927 info attempt registry request try #1 at 21:36:50
+927 info attempt registry request try #1 at 21:38:34
 928 verbose etag "ARSLRG3HPV6L40NZ27OSUG5GE"
 929 http request GET https://registry.npmjs.org/method-override
-930 verbose request uri https://registry.npmjs.org/serve-favicon
+930 verbose request uri https://registry.npmjs.org/cookie-parser
 931 verbose request no auth needed
-932 info attempt registry request try #1 at 21:36:50
-933 verbose etag "32DME59ARJISQ6B7SM9GQJ65I"
-934 http request GET https://registry.npmjs.org/serve-favicon
-935 verbose request uri https://registry.npmjs.org/cookie-parser
+932 info attempt registry request try #1 at 21:38:34
+933 verbose etag "D2I21Z55J0M83YHA636O1DW9K"
+934 http request GET https://registry.npmjs.org/cookie-parser
+935 verbose request uri https://registry.npmjs.org/express-session
 936 verbose request no auth needed
-937 info attempt registry request try #1 at 21:36:50
-938 verbose etag "D2I21Z55J0M83YHA636O1DW9K"
-939 http request GET https://registry.npmjs.org/cookie-parser
-940 verbose request uri https://registry.npmjs.org/express-session
+937 info attempt registry request try #1 at 21:38:34
+938 verbose etag "TK4P126FRNO73GLU8NZTZ2C3"
+939 http request GET https://registry.npmjs.org/express-session
+940 verbose request uri https://registry.npmjs.org/errorhandler
 941 verbose request no auth needed
-942 info attempt registry request try #1 at 21:36:50
-943 verbose etag "TK4P126FRNO73GLU8NZTZ2C3"
-944 http request GET https://registry.npmjs.org/express-session
-945 verbose request uri https://registry.npmjs.org/errorhandler
+942 info attempt registry request try #1 at 21:38:34
+943 verbose etag "AWUXIJKRD4L4ZNFU0QKHWPO40"
+944 http request GET https://registry.npmjs.org/errorhandler
+945 verbose request uri https://registry.npmjs.org/compression
 946 verbose request no auth needed
-947 info attempt registry request try #1 at 21:36:50
-948 verbose etag "AWUXIJKRD4L4ZNFU0QKHWPO40"
-949 http request GET https://registry.npmjs.org/errorhandler
-950 verbose request uri https://registry.npmjs.org/compression
+947 info attempt registry request try #1 at 21:38:34
+948 verbose etag "4UJB5IH7DDKPPW0WX2AIWGIEG"
+949 http request GET https://registry.npmjs.org/compression
+950 verbose request uri https://registry.npmjs.org/ejs
 951 verbose request no auth needed
-952 info attempt registry request try #1 at 21:36:50
-953 verbose etag "4UJB5IH7DDKPPW0WX2AIWGIEG"
-954 http request GET https://registry.npmjs.org/compression
-955 verbose request uri https://registry.npmjs.org/ejs
+952 info attempt registry request try #1 at 21:38:34
+953 verbose etag "DFS9PA0D97GJNWG4SMGBGXXH0"
+954 http request GET https://registry.npmjs.org/ejs
+955 verbose request uri https://registry.npmjs.org/lodash
 956 verbose request no auth needed
-957 info attempt registry request try #1 at 21:36:50
-958 verbose etag "DFS9PA0D97GJNWG4SMGBGXXH0"
-959 http request GET https://registry.npmjs.org/ejs
-960 verbose request uri https://registry.npmjs.org/lodash
+957 info attempt registry request try #1 at 21:38:34
+958 verbose etag "BKFTAPE2U57LC0Z0TNCVIUWXL"
+959 http request GET https://registry.npmjs.org/lodash
+960 verbose request uri https://registry.npmjs.org/jsonwebtoken
 961 verbose request no auth needed
-962 info attempt registry request try #1 at 21:36:50
-963 verbose etag "BKFTAPE2U57LC0Z0TNCVIUWXL"
-964 http request GET https://registry.npmjs.org/lodash
-965 verbose request uri https://registry.npmjs.org/jsonwebtoken
+962 info attempt registry request try #1 at 21:38:34
+963 verbose etag "2Z6XPTSV7C01ABY0T8LL7DDEG"
+964 http request GET https://registry.npmjs.org/jsonwebtoken
+965 verbose request uri https://registry.npmjs.org/express-jwt
 966 verbose request no auth needed
-967 info attempt registry request try #1 at 21:36:50
-968 verbose etag "2Z6XPTSV7C01ABY0T8LL7DDEG"
-969 http request GET https://registry.npmjs.org/jsonwebtoken
-970 verbose request uri https://registry.npmjs.org/express-jwt
+967 info attempt registry request try #1 at 21:38:34
+968 verbose etag "9Z1PH5VY7SQ6806ESUA1LI8OH"
+969 http request GET https://registry.npmjs.org/express-jwt
+970 verbose request uri https://registry.npmjs.org/body-parser
 971 verbose request no auth needed
-972 info attempt registry request try #1 at 21:36:50
-973 verbose etag "9Z1PH5VY7SQ6806ESUA1LI8OH"
-974 http request GET https://registry.npmjs.org/express-jwt
+972 info attempt registry request try #1 at 21:38:34
+973 verbose etag "5X0SU04JVGRH1KU6UBX5M5BJS"
+974 http request GET https://registry.npmjs.org/body-parser
 975 verbose request uri https://registry.npmjs.org/passport
 976 verbose request no auth needed
-977 info attempt registry request try #1 at 21:36:50
+977 info attempt registry request try #1 at 21:38:34
 978 verbose etag "6LLG05E9PIUHUTYCJKIP28EGR"
 979 http request GET https://registry.npmjs.org/passport
 980 verbose request uri https://registry.npmjs.org/mongoose
 981 verbose request no auth needed
-982 info attempt registry request try #1 at 21:36:50
+982 info attempt registry request try #1 at 21:38:35
 983 verbose etag "BT0U6A5FYUER4F014H1G6SBLN"
 984 http request GET https://registry.npmjs.org/mongoose
 985 verbose request uri https://registry.npmjs.org/passport-local
 986 verbose request no auth needed
-987 info attempt registry request try #1 at 21:36:50
+987 info attempt registry request try #1 at 21:38:35
 988 verbose etag "F2MBNKV8QACAF4X2DU6NVNKR8"
 989 http request GET https://registry.npmjs.org/passport-local
 990 verbose request uri https://registry.npmjs.org/passport-facebook
 991 verbose request no auth needed
-992 info attempt registry request try #1 at 21:36:50
+992 info attempt registry request try #1 at 21:38:35
 993 verbose etag "3X8OKKBLSLK9O9GPF6FZLB1XW"
 994 http request GET https://registry.npmjs.org/passport-facebook
-995 verbose request uri https://registry.npmjs.org/passport-twitter
+995 verbose request uri https://registry.npmjs.org/passport-google-oauth
 996 verbose request no auth needed
-997 info attempt registry request try #1 at 21:36:50
-998 verbose etag "D6OXY6VP3GYN5QYO3PS9VCMKV"
-999 http request GET https://registry.npmjs.org/passport-twitter
-1000 verbose request uri https://registry.npmjs.org/passport-google-oauth
+997 info attempt registry request try #1 at 21:38:35
+998 verbose etag "CNH1HR2EP7JOPTNOKQR95WBCR"
+999 http request GET https://registry.npmjs.org/passport-google-oauth
+1000 verbose request uri https://registry.npmjs.org/passport-twitter
 1001 verbose request no auth needed
-1002 info attempt registry request try #1 at 21:36:50
-1003 verbose etag "CNH1HR2EP7JOPTNOKQR95WBCR"
-1004 http request GET https://registry.npmjs.org/passport-google-oauth
+1002 info attempt registry request try #1 at 21:38:35
+1003 verbose etag "D6OXY6VP3GYN5QYO3PS9VCMKV"
+1004 http request GET https://registry.npmjs.org/passport-twitter
 1005 verbose request uri https://registry.npmjs.org/composable-middleware
 1006 verbose request no auth needed
-1007 info attempt registry request try #1 at 21:36:50
+1007 info attempt registry request try #1 at 21:38:35
 1008 verbose etag "CYXNQIDTU78NO281KPB9TQK9T"
 1009 http request GET https://registry.npmjs.org/composable-middleware
 1010 verbose request uri https://registry.npmjs.org/connect-mongo
 1011 verbose request no auth needed
-1012 info attempt registry request try #1 at 21:36:50
+1012 info attempt registry request try #1 at 21:38:35
 1013 verbose etag "DKA43DB29BV1DQ4Q4JFSCRTPE"
 1014 http request GET https://registry.npmjs.org/connect-mongo
-1015 verbose request uri https://registry.npmjs.org/socket.io
+1015 verbose request uri https://registry.npmjs.org/socketio-jwt
 1016 verbose request no auth needed
-1017 info attempt registry request try #1 at 21:36:50
-1018 verbose etag "204LXKH3R5W7GUUILRZ92T0AH"
-1019 http request GET https://registry.npmjs.org/socket.io
-1020 verbose request uri https://registry.npmjs.org/socket.io-client
+1017 info attempt registry request try #1 at 21:38:35
+1018 verbose etag "585PMITW3T5Z1X7VTUVI9YINE"
+1019 http request GET https://registry.npmjs.org/socketio-jwt
+1020 verbose request uri https://registry.npmjs.org/socket.io
 1021 verbose request no auth needed
-1022 info attempt registry request try #1 at 21:36:50
-1023 verbose etag "88N07G0UABQYLUGN8U2MX0TZP"
-1024 http request GET https://registry.npmjs.org/socket.io-client
-1025 verbose request uri https://registry.npmjs.org/socketio-jwt
+1022 info attempt registry request try #1 at 21:38:35
+1023 verbose etag "204LXKH3R5W7GUUILRZ92T0AH"
+1024 http request GET https://registry.npmjs.org/socket.io
+1025 verbose request uri https://registry.npmjs.org/socket.io-client
 1026 verbose request no auth needed
-1027 info attempt registry request try #1 at 21:36:50
-1028 verbose etag "585PMITW3T5Z1X7VTUVI9YINE"
-1029 http request GET https://registry.npmjs.org/socketio-jwt
-1030 verbose request uri https://registry.npmjs.org/grunt
+1027 info attempt registry request try #1 at 21:38:35
+1028 verbose etag "88N07G0UABQYLUGN8U2MX0TZP"
+1029 http request GET https://registry.npmjs.org/socket.io-client
+1030 verbose request uri https://registry.npmjs.org/grunt-autoprefixer
 1031 verbose request no auth needed
-1032 info attempt registry request try #1 at 21:36:50
-1033 verbose etag "41VXJMQ5VEKVFK2TLA2SRBJU3"
-1034 http request GET https://registry.npmjs.org/grunt
-1035 verbose request uri https://registry.npmjs.org/grunt-autoprefixer
+1032 info attempt registry request try #1 at 21:38:35
+1033 verbose etag "BTTTAW2TNOKO0PXMT1TPVP8X2"
+1034 http request GET https://registry.npmjs.org/grunt-autoprefixer
+1035 verbose request uri https://registry.npmjs.org/grunt
 1036 verbose request no auth needed
-1037 info attempt registry request try #1 at 21:36:50
-1038 verbose etag "BTTTAW2TNOKO0PXMT1TPVP8X2"
-1039 http request GET https://registry.npmjs.org/grunt-autoprefixer
+1037 info attempt registry request try #1 at 21:38:35
+1038 verbose etag "41VXJMQ5VEKVFK2TLA2SRBJU3"
+1039 http request GET https://registry.npmjs.org/grunt
 1040 verbose request uri https://registry.npmjs.org/grunt-wiredep
 1041 verbose request no auth needed
-1042 info attempt registry request try #1 at 21:36:50
+1042 info attempt registry request try #1 at 21:38:35
 1043 verbose etag "2KHF11WWDXGLE8B62RQ2RHXUA"
 1044 http request GET https://registry.npmjs.org/grunt-wiredep
 1045 verbose request uri https://registry.npmjs.org/grunt-concurrent
 1046 verbose request no auth needed
-1047 info attempt registry request try #1 at 21:36:50
+1047 info attempt registry request try #1 at 21:38:35
 1048 verbose etag "CBSKL777KCDSUTIPUDIOVOEOO"
 1049 http request GET https://registry.npmjs.org/grunt-concurrent
 1050 verbose request uri https://registry.npmjs.org/grunt-contrib-clean
 1051 verbose request no auth needed
-1052 info attempt registry request try #1 at 21:36:50
+1052 info attempt registry request try #1 at 21:38:35
 1053 verbose etag "9452X54ODC0R4AWM28RMM7IX0"
 1054 http request GET https://registry.npmjs.org/grunt-contrib-clean
-1055 verbose request uri https://registry.npmjs.org/grunt-contrib-concat
+1055 verbose request uri https://registry.npmjs.org/grunt-contrib-copy
 1056 verbose request no auth needed
-1057 info attempt registry request try #1 at 21:36:50
-1058 verbose etag "CTAFCVJJFRM66076G9UL8E2W4"
-1059 http request GET https://registry.npmjs.org/grunt-contrib-concat
-1060 verbose request uri https://registry.npmjs.org/grunt-contrib-copy
+1057 info attempt registry request try #1 at 21:38:35
+1058 verbose etag "E2ZA3AF9KEV04V24IDWS2F6YH"
+1059 http request GET https://registry.npmjs.org/grunt-contrib-copy
+1060 verbose request uri https://registry.npmjs.org/grunt-contrib-concat
 1061 verbose request no auth needed
-1062 info attempt registry request try #1 at 21:36:50
-1063 verbose etag "E2ZA3AF9KEV04V24IDWS2F6YH"
-1064 http request GET https://registry.npmjs.org/grunt-contrib-copy
-1065 verbose request uri https://registry.npmjs.org/grunt-contrib-cssmin
+1062 info attempt registry request try #1 at 21:38:35
+1063 verbose etag "CTAFCVJJFRM66076G9UL8E2W4"
+1064 http request GET https://registry.npmjs.org/grunt-contrib-concat
+1065 verbose request uri https://registry.npmjs.org/grunt-contrib-htmlmin
 1066 verbose request no auth needed
-1067 info attempt registry request try #1 at 21:36:50
-1068 verbose etag "5GND3AEVYFBMXO4DE5O9TN2TC"
-1069 http request GET https://registry.npmjs.org/grunt-contrib-cssmin
-1070 verbose request uri https://registry.npmjs.org/grunt-contrib-htmlmin
+1067 info attempt registry request try #1 at 21:38:35
+1068 verbose etag "68EVGKFAJGJ9GBPVM4AKRC1NY"
+1069 http request GET https://registry.npmjs.org/grunt-contrib-htmlmin
+1070 verbose request uri https://registry.npmjs.org/grunt-contrib-cssmin
 1071 verbose request no auth needed
-1072 info attempt registry request try #1 at 21:36:50
-1073 verbose etag "68EVGKFAJGJ9GBPVM4AKRC1NY"
-1074 http request GET https://registry.npmjs.org/grunt-contrib-htmlmin
+1072 info attempt registry request try #1 at 21:38:35
+1073 verbose etag "5GND3AEVYFBMXO4DE5O9TN2TC"
+1074 http request GET https://registry.npmjs.org/grunt-contrib-cssmin
 1075 verbose request uri https://registry.npmjs.org/grunt-contrib-imagemin
 1076 verbose request no auth needed
-1077 info attempt registry request try #1 at 21:36:50
+1077 info attempt registry request try #1 at 21:38:35
 1078 verbose etag "68MK4V8VVMV8YEHCFYIAP125I"
 1079 http request GET https://registry.npmjs.org/grunt-contrib-imagemin
 1080 verbose request uri https://registry.npmjs.org/grunt-contrib-jshint
 1081 verbose request no auth needed
-1082 info attempt registry request try #1 at 21:36:50
+1082 info attempt registry request try #1 at 21:38:35
 1083 verbose etag "1E33P892091AFUP9LHMQLHMTY"
 1084 http request GET https://registry.npmjs.org/grunt-contrib-jshint
-1085 verbose request uri https://registry.npmjs.org/grunt-contrib-uglify
+1085 verbose request uri https://registry.npmjs.org/grunt-contrib-watch
 1086 verbose request no auth needed
-1087 info attempt registry request try #1 at 21:36:50
-1088 verbose etag "8UFL91HZLTSUNXL9GLRA9AGDK"
-1089 http request GET https://registry.npmjs.org/grunt-contrib-uglify
-1090 verbose request uri https://registry.npmjs.org/grunt-contrib-watch
+1087 info attempt registry request try #1 at 21:38:35
+1088 verbose etag "1K2NM4G9QWVB0K3XRG8FC18BU"
+1089 http request GET https://registry.npmjs.org/grunt-contrib-watch
+1090 verbose request uri https://registry.npmjs.org/grunt-contrib-uglify
 1091 verbose request no auth needed
-1092 info attempt registry request try #1 at 21:36:50
-1093 verbose etag "1K2NM4G9QWVB0K3XRG8FC18BU"
-1094 http request GET https://registry.npmjs.org/grunt-contrib-watch
-1095 verbose request uri https://registry.npmjs.org/grunt-contrib-less
+1092 info attempt registry request try #1 at 21:38:35
+1093 verbose etag "8UFL91HZLTSUNXL9GLRA9AGDK"
+1094 http request GET https://registry.npmjs.org/grunt-contrib-uglify
+1095 verbose request uri https://registry.npmjs.org/grunt-google-cdn
 1096 verbose request no auth needed
-1097 info attempt registry request try #1 at 21:36:50
-1098 verbose etag "BEA54UTKKQPE5FQVNTJHICAO"
-1099 http request GET https://registry.npmjs.org/grunt-contrib-less
-1100 verbose request uri https://registry.npmjs.org/grunt-google-cdn
+1097 info attempt registry request try #1 at 21:38:35
+1098 verbose etag "3UOXXN3W4HK7HWTCGUF2A9LY8"
+1099 http request GET https://registry.npmjs.org/grunt-google-cdn
+1100 verbose request uri https://registry.npmjs.org/grunt-contrib-less
 1101 verbose request no auth needed
-1102 info attempt registry request try #1 at 21:36:50
-1103 verbose etag "3UOXXN3W4HK7HWTCGUF2A9LY8"
-1104 http request GET https://registry.npmjs.org/grunt-google-cdn
+1102 info attempt registry request try #1 at 21:38:35
+1103 verbose etag "BEA54UTKKQPE5FQVNTJHICAO"
+1104 http request GET https://registry.npmjs.org/grunt-contrib-less
 1105 verbose request uri https://registry.npmjs.org/grunt-newer
 1106 verbose request no auth needed
-1107 info attempt registry request try #1 at 21:36:50
+1107 info attempt registry request try #1 at 21:38:35
 1108 verbose etag "8MUXQ5JA8H5WQVTCJF5Z5IBJP"
 1109 http request GET https://registry.npmjs.org/grunt-newer
 1110 verbose request uri https://registry.npmjs.org/grunt-ng-annotate
 1111 verbose request no auth needed
-1112 info attempt registry request try #1 at 21:36:50
+1112 info attempt registry request try #1 at 21:38:35
 1113 verbose etag "4E6UWUY1A34BZ7364BG9G6FZJ"
 1114 http request GET https://registry.npmjs.org/grunt-ng-annotate
 1115 verbose request uri https://registry.npmjs.org/grunt-svgmin
 1116 verbose request no auth needed
-1117 info attempt registry request try #1 at 21:36:50
+1117 info attempt registry request try #1 at 21:38:35
 1118 verbose etag "1I43OJ5ZQM4WYIQRRJX8M55MR"
 1119 http request GET https://registry.npmjs.org/grunt-svgmin
 1120 verbose request uri https://registry.npmjs.org/grunt-rev
 1121 verbose request no auth needed
-1122 info attempt registry request try #1 at 21:36:50
+1122 info attempt registry request try #1 at 21:38:35
 1123 verbose etag "546P8ARJVE1EGDC0GBA4V2MIH"
 1124 http request GET https://registry.npmjs.org/grunt-rev
-1125 verbose request uri https://registry.npmjs.org/grunt-usemin
+1125 verbose request uri https://registry.npmjs.org/grunt-env
 1126 verbose request no auth needed
-1127 info attempt registry request try #1 at 21:36:50
-1128 verbose etag "1AS0BALECFC9GH88GG7ERWRCA"
-1129 http request GET https://registry.npmjs.org/grunt-usemin
-1130 verbose request uri https://registry.npmjs.org/grunt-env
+1127 info attempt registry request try #1 at 21:38:35
+1128 verbose etag "AVEOE22BF5C7AFMM4EBFU0LT"
+1129 http request GET https://registry.npmjs.org/grunt-env
+1130 verbose request uri https://registry.npmjs.org/grunt-usemin
 1131 verbose request no auth needed
-1132 info attempt registry request try #1 at 21:36:50
-1133 verbose etag "AVEOE22BF5C7AFMM4EBFU0LT"
-1134 http request GET https://registry.npmjs.org/grunt-env
-1135 verbose request uri https://registry.npmjs.org/grunt-node-inspector
+1132 info attempt registry request try #1 at 21:38:35
+1133 verbose etag "1AS0BALECFC9GH88GG7ERWRCA"
+1134 http request GET https://registry.npmjs.org/grunt-usemin
+1135 verbose request uri https://registry.npmjs.org/grunt-nodemon
 1136 verbose request no auth needed
-1137 info attempt registry request try #1 at 21:36:50
-1138 verbose etag "A3CLATMW3RKOKJJ6XLOT9HRP9"
-1139 http request GET https://registry.npmjs.org/grunt-node-inspector
-1140 verbose request uri https://registry.npmjs.org/grunt-nodemon
+1137 info attempt registry request try #1 at 21:38:35
+1138 verbose etag "7P2OIQBX6RQMTYDF2IF6MFJ0Y"
+1139 http request GET https://registry.npmjs.org/grunt-nodemon
+1140 verbose request uri https://registry.npmjs.org/grunt-node-inspector
 1141 verbose request no auth needed
-1142 info attempt registry request try #1 at 21:36:50
-1143 verbose etag "7P2OIQBX6RQMTYDF2IF6MFJ0Y"
-1144 http request GET https://registry.npmjs.org/grunt-nodemon
+1142 info attempt registry request try #1 at 21:38:35
+1143 verbose etag "A3CLATMW3RKOKJJ6XLOT9HRP9"
+1144 http request GET https://registry.npmjs.org/grunt-node-inspector
 1145 verbose request uri https://registry.npmjs.org/grunt-angular-templates
 1146 verbose request no auth needed
-1147 info attempt registry request try #1 at 21:36:50
+1147 info attempt registry request try #1 at 21:38:35
 1148 verbose etag "4YWZ5OSAII58UNHPM8V5TMOBE"
 1149 http request GET https://registry.npmjs.org/grunt-angular-templates
 1150 verbose request uri https://registry.npmjs.org/grunt-dom-munger
 1151 verbose request no auth needed
-1152 info attempt registry request try #1 at 21:36:50
+1152 info attempt registry request try #1 at 21:38:35
 1153 verbose etag "6Q36SQNUZ6B412YD1IMYZYHHS"
 1154 http request GET https://registry.npmjs.org/grunt-dom-munger
-1155 verbose request uri https://registry.npmjs.org/grunt-protractor-runner
+1155 verbose request uri https://registry.npmjs.org/grunt-asset-injector
 1156 verbose request no auth needed
-1157 info attempt registry request try #1 at 21:36:50
-1158 verbose etag "E22OR6NF37L9255XE3S98N74B"
-1159 http request GET https://registry.npmjs.org/grunt-protractor-runner
-1160 verbose request uri https://registry.npmjs.org/grunt-asset-injector
+1157 info attempt registry request try #1 at 21:38:35
+1158 verbose etag "C0W1ZKW85KWVH77XZNHFBM3F4"
+1159 http request GET https://registry.npmjs.org/grunt-asset-injector
+1160 verbose request uri https://registry.npmjs.org/grunt-protractor-runner
 1161 verbose request no auth needed
-1162 info attempt registry request try #1 at 21:36:50
-1163 verbose etag "C0W1ZKW85KWVH77XZNHFBM3F4"
-1164 http request GET https://registry.npmjs.org/grunt-asset-injector
+1162 info attempt registry request try #1 at 21:38:35
+1163 verbose etag "E22OR6NF37L9255XE3S98N74B"
+1164 http request GET https://registry.npmjs.org/grunt-protractor-runner
 1165 verbose request uri https://registry.npmjs.org/grunt-karma
 1166 verbose request no auth needed
-1167 info attempt registry request try #1 at 21:36:50
+1167 info attempt registry request try #1 at 21:38:35
 1168 verbose etag "C7C1NSROEPSWFY3A0OUU8NXA2"
 1169 http request GET https://registry.npmjs.org/grunt-karma
-1170 verbose request uri https://registry.npmjs.org/grunt-mocha-test
+1170 verbose request uri https://registry.npmjs.org/jit-grunt
 1171 verbose request no auth needed
-1172 info attempt registry request try #1 at 21:36:50
-1173 verbose etag "38LJLAY4X7R3ETN47TW7QKK6T"
-1174 http request GET https://registry.npmjs.org/grunt-mocha-test
-1175 verbose request uri https://registry.npmjs.org/jit-grunt
+1172 info attempt registry request try #1 at 21:38:35
+1173 verbose etag "3NQG8OIZHBUVW8HIJDBZT7BEK"
+1174 http request GET https://registry.npmjs.org/jit-grunt
+1175 verbose request uri https://registry.npmjs.org/grunt-mocha-test
 1176 verbose request no auth needed
-1177 info attempt registry request try #1 at 21:36:50
-1178 verbose etag "3NQG8OIZHBUVW8HIJDBZT7BEK"
-1179 http request GET https://registry.npmjs.org/jit-grunt
+1177 info attempt registry request try #1 at 21:38:35
+1178 verbose etag "38LJLAY4X7R3ETN47TW7QKK6T"
+1179 http request GET https://registry.npmjs.org/grunt-mocha-test
 1180 verbose request uri https://registry.npmjs.org/time-grunt
 1181 verbose request no auth needed
-1182 info attempt registry request try #1 at 21:36:50
+1182 info attempt registry request try #1 at 21:38:35
 1183 verbose etag "4CCMUIHI7EVMVK6BAWWQYG4QZ"
 1184 http request GET https://registry.npmjs.org/time-grunt
-1185 verbose request uri https://registry.npmjs.org/grunt-express-server
+1185 verbose request uri https://registry.npmjs.org/grunt-open
 1186 verbose request no auth needed
-1187 info attempt registry request try #1 at 21:36:50
-1188 verbose etag "5F4GVQDLA6CQ4G1SM2Z4ZTMTH"
-1189 http request GET https://registry.npmjs.org/grunt-express-server
-1190 verbose request uri https://registry.npmjs.org/grunt-open
+1187 info attempt registry request try #1 at 21:38:35
+1188 verbose etag "8WSJ5A1B9ENKDDYI1I9PL81UP"
+1189 http request GET https://registry.npmjs.org/grunt-open
+1190 verbose request uri https://registry.npmjs.org/grunt-express-server
 1191 verbose request no auth needed
-1192 info attempt registry request try #1 at 21:36:50
-1193 verbose etag "8WSJ5A1B9ENKDDYI1I9PL81UP"
-1194 http request GET https://registry.npmjs.org/grunt-open
+1192 info attempt registry request try #1 at 21:38:35
+1193 verbose etag "5F4GVQDLA6CQ4G1SM2Z4ZTMTH"
+1194 http request GET https://registry.npmjs.org/grunt-express-server
 1195 verbose request uri https://registry.npmjs.org/open
 1196 verbose request no auth needed
-1197 info attempt registry request try #1 at 21:36:50
+1197 info attempt registry request try #1 at 21:38:35
 1198 verbose etag "9H40ZB6NK0OGHXEA317XSO2G6"
 1199 http request GET https://registry.npmjs.org/open
 1200 verbose request uri https://registry.npmjs.org/jshint-stylish
 1201 verbose request no auth needed
-1202 info attempt registry request try #1 at 21:36:50
+1202 info attempt registry request try #1 at 21:38:35
 1203 verbose etag "BT6KS2NG5LTEV93E80PA4UHDL"
 1204 http request GET https://registry.npmjs.org/jshint-stylish
 1205 verbose request uri https://registry.npmjs.org/connect-livereload
 1206 verbose request no auth needed
-1207 info attempt registry request try #1 at 21:36:50
+1207 info attempt registry request try #1 at 21:38:35
 1208 verbose etag "1O407BXI3DO0T30CT4NRI8AOD"
 1209 http request GET https://registry.npmjs.org/connect-livereload
 1210 verbose request uri https://registry.npmjs.org/karma-ng-scenario
 1211 verbose request no auth needed
-1212 info attempt registry request try #1 at 21:36:50
+1212 info attempt registry request try #1 at 21:38:35
 1213 verbose etag "7LL2DMZF8KP7RJ32Y7K6U9MMH"
 1214 http request GET https://registry.npmjs.org/karma-ng-scenario
 1215 verbose request uri https://registry.npmjs.org/karma-firefox-launcher
 1216 verbose request no auth needed
-1217 info attempt registry request try #1 at 21:36:50
+1217 info attempt registry request try #1 at 21:38:35
 1218 verbose etag "CMTIVZQTM04VR75AEL80P899S"
 1219 http request GET https://registry.npmjs.org/karma-firefox-launcher
-1220 verbose request uri https://registry.npmjs.org/karma-html2js-preprocessor
+1220 verbose request uri https://registry.npmjs.org/karma-script-launcher
 1221 verbose request no auth needed
-1222 info attempt registry request try #1 at 21:36:50
-1223 verbose etag "67YH8N7D3M9CRY46PK8A9ZWEG"
-1224 http request GET https://registry.npmjs.org/karma-html2js-preprocessor
+1222 info attempt registry request try #1 at 21:38:35
+1223 verbose etag "2T1RV4SJGELX2WQN5TRTPBMEC"
+1224 http request GET https://registry.npmjs.org/karma-script-launcher
 1225 verbose request uri https://registry.npmjs.org/karma-ng-jade2js-preprocessor
 1226 verbose request no auth needed
-1227 info attempt registry request try #1 at 21:36:50
+1227 info attempt registry request try #1 at 21:38:35
 1228 verbose etag "6YCWFWIDECT51XF5610SCEF8D"
 1229 http request GET https://registry.npmjs.org/karma-ng-jade2js-preprocessor
-1230 verbose request uri https://registry.npmjs.org/karma-jasmine
+1230 verbose request uri https://registry.npmjs.org/karma-html2js-preprocessor
 1231 verbose request no auth needed
-1232 info attempt registry request try #1 at 21:36:50
-1233 verbose etag "5PFIXE75D6TGAVCFGEKXZW4QU"
-1234 http request GET https://registry.npmjs.org/karma-jasmine
-1235 verbose request uri https://registry.npmjs.org/karma-chrome-launcher
+1232 info attempt registry request try #1 at 21:38:35
+1233 verbose etag "67YH8N7D3M9CRY46PK8A9ZWEG"
+1234 http request GET https://registry.npmjs.org/karma-html2js-preprocessor
+1235 verbose request uri https://registry.npmjs.org/karma-jasmine
 1236 verbose request no auth needed
-1237 info attempt registry request try #1 at 21:36:50
-1238 verbose etag "3JE0NHD9CKD2YUMUXT6Y2BEQB"
-1239 http request GET https://registry.npmjs.org/karma-chrome-launcher
-1240 verbose request uri https://registry.npmjs.org/requirejs
+1237 info attempt registry request try #1 at 21:38:35
+1238 verbose etag "5PFIXE75D6TGAVCFGEKXZW4QU"
+1239 http request GET https://registry.npmjs.org/karma-jasmine
+1240 verbose request uri https://registry.npmjs.org/karma-chrome-launcher
 1241 verbose request no auth needed
-1242 info attempt registry request try #1 at 21:36:50
-1243 verbose etag "BRAKXAXZ2JCATDQ72BV2I844N"
-1244 http request GET https://registry.npmjs.org/requirejs
-1245 verbose request uri https://registry.npmjs.org/karma-requirejs
+1242 info attempt registry request try #1 at 21:38:35
+1243 verbose etag "3JE0NHD9CKD2YUMUXT6Y2BEQB"
+1244 http request GET https://registry.npmjs.org/karma-chrome-launcher
+1245 verbose request uri https://registry.npmjs.org/requirejs
 1246 verbose request no auth needed
-1247 info attempt registry request try #1 at 21:36:50
-1248 verbose etag "EBKXLN6SYJ4QAEVSF4BDRCFY6"
-1249 http request GET https://registry.npmjs.org/karma-requirejs
-1250 verbose request uri https://registry.npmjs.org/karma-coffee-preprocessor
+1247 info attempt registry request try #1 at 21:38:35
+1248 verbose etag "BRAKXAXZ2JCATDQ72BV2I844N"
+1249 http request GET https://registry.npmjs.org/requirejs
+1250 verbose request uri https://registry.npmjs.org/karma-requirejs
 1251 verbose request no auth needed
-1252 info attempt registry request try #1 at 21:36:50
-1253 verbose etag "8RSG9LO6SZS4PEI4886ROV0MI"
-1254 http request GET https://registry.npmjs.org/karma-coffee-preprocessor
-1255 verbose request uri https://registry.npmjs.org/karma-jade-preprocessor
+1252 info attempt registry request try #1 at 21:38:35
+1253 verbose etag "EBKXLN6SYJ4QAEVSF4BDRCFY6"
+1254 http request GET https://registry.npmjs.org/karma-requirejs
+1255 verbose request uri https://registry.npmjs.org/karma-coffee-preprocessor
 1256 verbose request no auth needed
-1257 info attempt registry request try #1 at 21:36:50
-1258 verbose etag "7MXUF6KNLTFUCMDET9A4IQPFC"
-1259 http request GET https://registry.npmjs.org/karma-jade-preprocessor
-1260 verbose request uri https://registry.npmjs.org/karma-phantomjs-launcher
+1257 info attempt registry request try #1 at 21:38:35
+1258 verbose etag "8RSG9LO6SZS4PEI4886ROV0MI"
+1259 http request GET https://registry.npmjs.org/karma-coffee-preprocessor
+1260 verbose request uri https://registry.npmjs.org/karma-jade-preprocessor
 1261 verbose request no auth needed
-1262 info attempt registry request try #1 at 21:36:50
-1263 verbose etag "66UFY5MR6A83JYRYD5F5XPBQP"
-1264 http request GET https://registry.npmjs.org/karma-phantomjs-launcher
-1265 verbose request uri https://registry.npmjs.org/karma
+1262 info attempt registry request try #1 at 21:38:35
+1263 verbose etag "7MXUF6KNLTFUCMDET9A4IQPFC"
+1264 http request GET https://registry.npmjs.org/karma-jade-preprocessor
+1265 verbose request uri https://registry.npmjs.org/karma-phantomjs-launcher
 1266 verbose request no auth needed
-1267 info attempt registry request try #1 at 21:36:50
-1268 verbose etag "DF89FNJ4E1FXL1KOSAFEY4YBX"
-1269 http request GET https://registry.npmjs.org/karma
-1270 verbose request uri https://registry.npmjs.org/karma-ng-html2js-preprocessor
+1267 info attempt registry request try #1 at 21:38:35
+1268 verbose etag "66UFY5MR6A83JYRYD5F5XPBQP"
+1269 http request GET https://registry.npmjs.org/karma-phantomjs-launcher
+1270 verbose request uri https://registry.npmjs.org/karma
 1271 verbose request no auth needed
-1272 info attempt registry request try #1 at 21:36:50
-1273 verbose etag "BG07WCZX2BLMJBT8GDAWPFD5R"
-1274 http request GET https://registry.npmjs.org/karma-ng-html2js-preprocessor
-1275 verbose request uri https://registry.npmjs.org/supertest
+1272 info attempt registry request try #1 at 21:38:35
+1273 verbose etag "DF89FNJ4E1FXL1KOSAFEY4YBX"
+1274 http request GET https://registry.npmjs.org/karma
+1275 verbose request uri https://registry.npmjs.org/karma-ng-html2js-preprocessor
 1276 verbose request no auth needed
-1277 info attempt registry request try #1 at 21:36:50
-1278 verbose etag "BZ7AK851CWY2I066FR21WUQD4"
-1279 http request GET https://registry.npmjs.org/supertest
-1280 verbose request uri https://registry.npmjs.org/should
+1277 info attempt registry request try #1 at 21:38:35
+1278 verbose etag "BG07WCZX2BLMJBT8GDAWPFD5R"
+1279 http request GET https://registry.npmjs.org/karma-ng-html2js-preprocessor
+1280 verbose request uri https://registry.npmjs.org/supertest
 1281 verbose request no auth needed
-1282 info attempt registry request try #1 at 21:36:50
-1283 verbose etag "6R4J1PM2PTYPEYCMD1RTCWGX5"
-1284 http request GET https://registry.npmjs.org/should
-1285 verbose request uri https://registry.npmjs.org/karma-script-launcher
+1282 info attempt registry request try #1 at 21:38:35
+1283 verbose etag "BZ7AK851CWY2I066FR21WUQD4"
+1284 http request GET https://registry.npmjs.org/supertest
+1285 verbose request uri https://registry.npmjs.org/should
 1286 verbose request no auth needed
-1287 info attempt registry request try #1 at 21:36:50
-1288 verbose etag "2T1RV4SJGELX2WQN5TRTPBMEC"
-1289 http request GET https://registry.npmjs.org/karma-script-launcher
+1287 info attempt registry request try #1 at 21:38:35
+1288 verbose etag "6R4J1PM2PTYPEYCMD1RTCWGX5"
+1289 http request GET https://registry.npmjs.org/should
 1290 info git [ 'config', '--get', 'remote.origin.url' ]
 1291 verbose git remote.origin.url https://github.com/DaftMonk/grunt-build-control
 1292 info git [ 'fetch', '-a', 'origin' ]
 1293 http 304 https://registry.npmjs.org/cookie-parser
 1294 silly get cb [ 304,
-1294 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
+1294 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
 1294 silly get     server: 'Apache',
 1294 silly get     via: '1.1 varnish',
-1294 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
+1294 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
 1294 silly get     'cache-control': 'max-age=60',
 1294 silly get     etag: '"D2I21Z55J0M83YHA636O1DW9K"',
 1294 silly get     age: '0',
-1294 silly get     'x-served-by': 'cache-ord1735-ORD',
+1294 silly get     'x-served-by': 'cache-ord1727-ORD',
 1294 silly get     'x-cache': 'HIT',
 1294 silly get     'x-cache-hits': '1',
-1294 silly get     'x-timer': 'S1417145809.219289,VS0,VE28',
+1294 silly get     'x-timer': 'S1417145912.288001,VS0,VE0',
 1294 silly get     vary: 'Accept',
 1294 silly get     'content-length': '0',
 1294 silly get     'keep-alive': 'timeout=10, max=50',
 1294 silly get     connection: 'Keep-Alive' } ]
 1295 verbose etag https://registry.npmjs.org/cookie-parser from cache
-1296 http 304 https://registry.npmjs.org/body-parser
-1297 silly get cb [ 304,
-1297 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1297 silly get     server: 'Apache',
-1297 silly get     via: '1.1 varnish',
-1297 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1297 silly get     'cache-control': 'max-age=60',
-1297 silly get     etag: '"5X0SU04JVGRH1KU6UBX5M5BJS"',
-1297 silly get     age: '0',
-1297 silly get     'x-served-by': 'cache-ord1724-ORD',
-1297 silly get     'x-cache': 'HIT',
-1297 silly get     'x-cache-hits': '1',
-1297 silly get     'x-timer': 'S1417145809.218722,VS0,VE33',
-1297 silly get     vary: 'Accept',
-1297 silly get     'content-length': '0',
-1297 silly get     'keep-alive': 'timeout=10, max=50',
-1297 silly get     connection: 'Keep-Alive' } ]
-1298 verbose etag https://registry.npmjs.org/body-parser from cache
-1299 http 304 https://registry.npmjs.org/morgan
-1300 silly get cb [ 304,
-1300 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1300 silly get     server: 'Apache',
-1300 silly get     via: '1.1 varnish',
-1300 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1300 silly get     'cache-control': 'max-age=60',
-1300 silly get     etag: '"A4D8HEFHF3VM613B88P1RXA9D"',
-1300 silly get     age: '0',
-1300 silly get     'x-served-by': 'cache-ord1735-ORD',
-1300 silly get     'x-cache': 'HIT',
-1300 silly get     'x-cache-hits': '1',
-1300 silly get     'x-timer': 'S1417145809.118152,VS0,VE134',
-1300 silly get     vary: 'Accept',
-1300 silly get     'content-length': '0',
-1300 silly get     'keep-alive': 'timeout=10, max=50',
-1300 silly get     connection: 'Keep-Alive' } ]
-1301 verbose etag https://registry.npmjs.org/morgan from cache
-1302 http 304 https://registry.npmjs.org/method-override
-1303 silly get cb [ 304,
-1303 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1303 silly get     server: 'Apache',
-1303 silly get     via: '1.1 varnish',
-1303 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1303 silly get     'cache-control': 'max-age=60',
-1303 silly get     etag: '"ARSLRG3HPV6L40NZ27OSUG5GE"',
-1303 silly get     age: '0',
-1303 silly get     'x-served-by': 'cache-ord1721-ORD',
-1303 silly get     'x-cache': 'HIT',
-1303 silly get     'x-cache-hits': '1',
-1303 silly get     'x-timer': 'S1417145809.222284,VS0,VE71',
-1303 silly get     vary: 'Accept',
-1303 silly get     'content-length': '0',
-1303 silly get     'keep-alive': 'timeout=10, max=50',
-1303 silly get     connection: 'Keep-Alive' } ]
-1304 verbose etag https://registry.npmjs.org/method-override from cache
-1305 silly addNameRange number 2 { name: 'body-parser', range: '>=1.5.0 <1.6.0', hasData: true }
-1306 silly addNameRange versions [ 'body-parser',
-1306 silly addNameRange   [ '1.0.0',
-1306 silly addNameRange     '1.0.1',
-1306 silly addNameRange     '1.0.2',
-1306 silly addNameRange     '1.1.0',
-1306 silly addNameRange     '1.1.1',
-1306 silly addNameRange     '1.1.2',
-1306 silly addNameRange     '1.2.0',
-1306 silly addNameRange     '1.2.1',
-1306 silly addNameRange     '1.2.2',
-1306 silly addNameRange     '1.3.0',
-1306 silly addNameRange     '1.3.1',
-1306 silly addNameRange     '1.4.0',
-1306 silly addNameRange     '1.4.1',
-1306 silly addNameRange     '1.4.2',
-1306 silly addNameRange     '1.4.3',
-1306 silly addNameRange     '1.5.0',
-1306 silly addNameRange     '1.5.1',
-1306 silly addNameRange     '1.5.2',
-1306 silly addNameRange     '1.6.0',
-1306 silly addNameRange     '1.6.1',
-1306 silly addNameRange     '1.6.2',
-1306 silly addNameRange     '1.6.3',
-1306 silly addNameRange     '1.6.4',
-1306 silly addNameRange     '1.6.5',
-1306 silly addNameRange     '1.6.6',
-1306 silly addNameRange     '1.6.7',
-1306 silly addNameRange     '1.7.0',
-1306 silly addNameRange     '1.8.0',
-1306 silly addNameRange     '1.8.1',
-1306 silly addNameRange     '1.8.2',
-1306 silly addNameRange     '1.8.3',
-1306 silly addNameRange     '1.8.4',
-1306 silly addNameRange     '1.9.0',
-1306 silly addNameRange     '1.9.1',
-1306 silly addNameRange     '1.9.2',
-1306 silly addNameRange     '1.9.3' ] ]
-1307 verbose addNamed body-parser@1.5.2
-1308 silly addNamed semver.valid 1.5.2
-1309 silly addNamed semver.validRange 1.5.2
-1310 silly addNameRange number 2 { name: 'cookie-parser', range: '>=1.0.1 <1.1.0', hasData: true }
-1311 silly addNameRange versions [ 'cookie-parser',
-1311 silly addNameRange   [ '1.0.0',
-1311 silly addNameRange     '1.0.1',
-1311 silly addNameRange     '1.1.0',
-1311 silly addNameRange     '1.2.0',
-1311 silly addNameRange     '1.3.0',
-1311 silly addNameRange     '1.3.1',
-1311 silly addNameRange     '1.3.2',
-1311 silly addNameRange     '1.3.3' ] ]
-1312 verbose addNamed cookie-parser@1.0.1
-1313 silly addNamed semver.valid 1.0.1
-1314 silly addNamed semver.validRange 1.0.1
-1315 silly addNameRange number 2 { name: 'morgan', range: '>=1.0.0 <1.1.0', hasData: true }
-1316 silly addNameRange versions [ 'morgan',
-1316 silly addNameRange   [ '1.0.0',
-1316 silly addNameRange     '1.0.1',
-1316 silly addNameRange     '1.1.0',
-1316 silly addNameRange     '1.1.1',
-1316 silly addNameRange     '1.2.0',
-1316 silly addNameRange     '1.2.1',
-1316 silly addNameRange     '1.2.2',
-1316 silly addNameRange     '1.2.3',
-1316 silly addNameRange     '1.3.0',
-1316 silly addNameRange     '1.3.1',
-1316 silly addNameRange     '1.3.2',
-1316 silly addNameRange     '1.4.0',
-1316 silly addNameRange     '1.4.1',
-1316 silly addNameRange     '1.5.0' ] ]
-1317 verbose addNamed morgan@1.0.1
-1318 silly addNamed semver.valid 1.0.1
-1319 silly addNamed semver.validRange 1.0.1
-1320 silly cache afterAdd body-parser@1.5.2
-1321 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\body-parser\1.5.2\package\package.json not in flight; writing
-1322 silly cache afterAdd cookie-parser@1.0.1
-1323 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\cookie-parser\1.0.1\package\package.json not in flight; writing
-1324 silly cache afterAdd morgan@1.0.1
-1325 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\morgan\1.0.1\package\package.json not in flight; writing
-1326 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\morgan\1.0.1\package\package.json written
-1327 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\cookie-parser\1.0.1\package\package.json written
-1328 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\body-parser\1.5.2\package\package.json written
-1329 silly addNameRange number 2 { name: 'method-override',
-1329 silly addNameRange   range: '>=1.0.0 <1.1.0',
-1329 silly addNameRange   hasData: true }
-1330 silly addNameRange versions [ 'method-override',
-1330 silly addNameRange   [ '1.0.0',
-1330 silly addNameRange     '1.0.1',
-1330 silly addNameRange     '1.0.2',
-1330 silly addNameRange     '2.0.0',
-1330 silly addNameRange     '2.0.1',
-1330 silly addNameRange     '2.0.2',
-1330 silly addNameRange     '2.1.0',
-1330 silly addNameRange     '2.1.1',
-1330 silly addNameRange     '2.1.2',
-1330 silly addNameRange     '2.1.3',
-1330 silly addNameRange     '2.2.0',
-1330 silly addNameRange     '2.3.0' ] ]
-1331 verbose addNamed method-override@1.0.2
-1332 silly addNamed semver.valid 1.0.2
-1333 silly addNamed semver.validRange 1.0.2
-1334 silly cache afterAdd method-override@1.0.2
-1335 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\method-override\1.0.2\package\package.json not in flight; writing
-1336 http 304 https://registry.npmjs.org/serve-favicon
-1337 silly get cb [ 304,
-1337 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1337 silly get     server: 'Apache',
-1337 silly get     via: '1.1 varnish',
-1337 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1337 silly get     'cache-control': 'max-age=60',
-1337 silly get     etag: '"32DME59ARJISQ6B7SM9GQJ65I"',
-1337 silly get     age: '0',
-1337 silly get     'x-served-by': 'cache-ord1734-ORD',
-1337 silly get     'x-cache': 'HIT',
-1337 silly get     'x-cache-hits': '1',
-1337 silly get     'x-timer': 'S1417145809.158784,VS0,VE298',
-1337 silly get     vary: 'Accept',
-1337 silly get     'content-length': '0',
-1337 silly get     'keep-alive': 'timeout=10, max=50',
-1337 silly get     connection: 'Keep-Alive' } ]
-1338 verbose etag https://registry.npmjs.org/serve-favicon from cache
-1339 http 304 https://registry.npmjs.org/express-session
-1340 silly get cb [ 304,
-1340 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1340 silly get     server: 'Apache',
-1340 silly get     via: '1.1 varnish',
-1340 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1340 silly get     'cache-control': 'max-age=60',
-1340 silly get     etag: '"TK4P126FRNO73GLU8NZTZ2C3"',
-1340 silly get     age: '0',
-1340 silly get     'x-served-by': 'cache-ord1735-ORD',
-1340 silly get     'x-cache': 'HIT',
-1340 silly get     'x-cache-hits': '1',
-1340 silly get     'x-timer': 'S1417145809.338382,VS0,VE132',
-1340 silly get     vary: 'Accept',
-1340 silly get     'content-length': '0',
-1340 silly get     'keep-alive': 'timeout=10, max=49',
-1340 silly get     connection: 'Keep-Alive' } ]
-1341 verbose etag https://registry.npmjs.org/express-session from cache
-1342 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\method-override\1.0.2\package\package.json written
-1343 silly addNameRange number 2 { name: 'serve-favicon', range: '>=2.0.1 <2.1.0', hasData: true }
-1344 silly addNameRange versions [ 'serve-favicon',
-1344 silly addNameRange   [ '2.0.0',
-1344 silly addNameRange     '2.0.1',
-1344 silly addNameRange     '2.1.0',
-1344 silly addNameRange     '2.1.1',
-1344 silly addNameRange     '2.1.2',
-1344 silly addNameRange     '2.1.3',
-1344 silly addNameRange     '2.1.4',
-1344 silly addNameRange     '2.1.5',
-1344 silly addNameRange     '2.1.6',
-1344 silly addNameRange     '2.1.7' ] ]
-1345 verbose addNamed serve-favicon@2.0.1
-1346 silly addNamed semver.valid 2.0.1
-1347 silly addNamed semver.validRange 2.0.1
-1348 silly addNameRange number 2 { name: 'express-session',
-1348 silly addNameRange   range: '>=1.0.2 <1.1.0',
-1348 silly addNameRange   hasData: true }
-1349 silly addNameRange versions [ 'express-session',
-1349 silly addNameRange   [ '1.0.0',
-1349 silly addNameRange     '1.0.1',
-1349 silly addNameRange     '1.0.2',
-1349 silly addNameRange     '1.0.3',
-1349 silly addNameRange     '1.0.4',
-1349 silly addNameRange     '1.1.0',
-1349 silly addNameRange     '1.2.0',
-1349 silly addNameRange     '1.2.1',
-1349 silly addNameRange     '1.3.0',
-1349 silly addNameRange     '1.3.1',
-1349 silly addNameRange     '1.4.0',
-1349 silly addNameRange     '1.5.0',
-1349 silly addNameRange     '1.5.1',
-1349 silly addNameRange     '1.5.2',
-1349 silly addNameRange     '1.6.0',
-1349 silly addNameRange     '1.6.1',
-1349 silly addNameRange     '1.6.2',
-1349 silly addNameRange     '1.6.3',
-1349 silly addNameRange     '1.6.4',
-1349 silly addNameRange     '1.6.5',
-1349 silly addNameRange     '1.7.0',
-1349 silly addNameRange     '1.7.1',
-1349 silly addNameRange     '1.7.2',
-1349 silly addNameRange     '1.7.3',
-1349 silly addNameRange     '1.7.4',
-1349 silly addNameRange     '1.7.5',
-1349 silly addNameRange     '1.7.6',
-1349 silly addNameRange     '1.8.0',
-1349 silly addNameRange     '1.8.1',
-1349 silly addNameRange     '1.8.2',
-1349 silly addNameRange     '1.9.0',
-1349 silly addNameRange     '1.9.1',
-1349 silly addNameRange     '1.9.2' ] ]
-1350 verbose addNamed express-session@1.0.4
-1351 silly addNamed semver.valid 1.0.4
-1352 silly addNamed semver.validRange 1.0.4
-1353 silly cache afterAdd serve-favicon@2.0.1
-1354 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\serve-favicon\2.0.1\package\package.json not in flight; writing
-1355 silly cache afterAdd express-session@1.0.4
-1356 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-session\1.0.4\package\package.json not in flight; writing
-1357 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\serve-favicon\2.0.1\package\package.json written
-1358 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-session\1.0.4\package\package.json written
-1359 http 304 https://registry.npmjs.org/lodash
-1360 silly get cb [ 304,
-1360 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1360 silly get     server: 'Apache',
-1360 silly get     via: '1.1 varnish',
-1360 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1360 silly get     'cache-control': 'max-age=60',
-1360 silly get     etag: '"BKFTAPE2U57LC0Z0TNCVIUWXL"',
-1360 silly get     age: '24',
-1360 silly get     'x-served-by': 'cache-ord1734-ORD',
-1360 silly get     'x-cache': 'HIT',
-1360 silly get     'x-cache-hits': '1',
-1360 silly get     'x-timer': 'S1417145809.538724,VS0,VE0',
-1360 silly get     vary: 'Accept',
-1360 silly get     'content-length': '0',
-1360 silly get     'keep-alive': 'timeout=10, max=49',
-1360 silly get     connection: 'Keep-Alive' } ]
-1361 verbose etag https://registry.npmjs.org/lodash from cache
-1362 http 304 https://registry.npmjs.org/ejs
-1363 silly get cb [ 304,
-1363 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1363 silly get     server: 'Apache',
-1363 silly get     via: '1.1 varnish',
-1363 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1363 silly get     'cache-control': 'max-age=60',
-1363 silly get     etag: '"DFS9PA0D97GJNWG4SMGBGXXH0"',
-1363 silly get     age: '0',
-1363 silly get     'x-served-by': 'cache-ord1721-ORD',
-1363 silly get     'x-cache': 'HIT',
-1363 silly get     'x-cache-hits': '1',
-1363 silly get     'x-timer': 'S1417145809.411214,VS0,VE131',
-1363 silly get     vary: 'Accept',
-1363 silly get     'content-length': '0',
-1363 silly get     'keep-alive': 'timeout=10, max=49',
-1363 silly get     connection: 'Keep-Alive' } ]
-1364 verbose etag https://registry.npmjs.org/ejs from cache
-1365 silly addNameRange number 2 { name: 'lodash', range: '>=2.4.1 <2.5.0', hasData: true }
-1366 silly addNameRange versions [ 'lodash',
-1366 silly addNameRange   [ '0.1.0',
-1366 silly addNameRange     '0.2.0',
-1366 silly addNameRange     '0.2.1',
-1366 silly addNameRange     '0.2.2',
-1366 silly addNameRange     '0.3.0',
-1366 silly addNameRange     '0.3.1',
-1366 silly addNameRange     '0.3.2',
-1366 silly addNameRange     '0.4.0',
-1366 silly addNameRange     '0.4.1',
-1366 silly addNameRange     '0.4.2',
-1366 silly addNameRange     '0.5.0-rc.1',
-1366 silly addNameRange     '0.5.0',
-1366 silly addNameRange     '0.5.1',
-1366 silly addNameRange     '0.5.2',
-1366 silly addNameRange     '0.6.0',
-1366 silly addNameRange     '0.6.1',
-1366 silly addNameRange     '0.7.0',
-1366 silly addNameRange     '0.8.0',
-1366 silly addNameRange     '0.8.1',
-1366 silly addNameRange     '0.8.2',
-1366 silly addNameRange     '0.9.0',
-1366 silly addNameRange     '0.9.1',
-1366 silly addNameRange     '0.9.2',
-1366 silly addNameRange     '0.10.0',
-1366 silly addNameRange     '1.0.0-rc.1',
-1366 silly addNameRange     '1.0.0-rc.2',
-1366 silly addNameRange     '1.0.0-rc.3',
-1366 silly addNameRange     '1.0.0',
-1366 silly addNameRange     '1.0.1',
-1366 silly addNameRange     '1.1.0',
-1366 silly addNameRange     '1.1.1',
-1366 silly addNameRange     '1.2.0',
-1366 silly addNameRange     '1.2.1',
-1366 silly addNameRange     '1.3.0',
-1366 silly addNameRange     '1.3.1',
-1366 silly addNameRange     '2.0.0',
-1366 silly addNameRange     '2.1.0',
-1366 silly addNameRange     '2.2.0',
-1366 silly addNameRange     '2.2.1',
-1366 silly addNameRange     '2.3.0',
-1366 silly addNameRange     '2.4.0',
-1366 silly addNameRange     '2.4.1' ] ]
-1367 verbose addNamed lodash@2.4.1
-1368 silly addNamed semver.valid 2.4.1
-1369 silly addNamed semver.validRange 2.4.1
-1370 silly addNameRange number 2 { name: 'ejs', range: '>=0.8.4 <0.9.0', hasData: true }
-1371 silly addNameRange versions [ 'ejs',
-1371 silly addNameRange   [ '0.0.1',
-1371 silly addNameRange     '0.0.2',
-1371 silly addNameRange     '0.0.3',
-1371 silly addNameRange     '0.0.4',
-1371 silly addNameRange     '0.1.0',
-1371 silly addNameRange     '0.2.0',
-1371 silly addNameRange     '0.2.1',
-1371 silly addNameRange     '0.3.0',
-1371 silly addNameRange     '0.3.1',
-1371 silly addNameRange     '0.4.0',
-1371 silly addNameRange     '0.4.1',
-1371 silly addNameRange     '0.4.2',
-1371 silly addNameRange     '0.4.3',
-1371 silly addNameRange     '0.5.0',
-1371 silly addNameRange     '0.6.0',
-1371 silly addNameRange     '0.6.1',
-1371 silly addNameRange     '0.7.0',
-1371 silly addNameRange     '0.7.1',
-1371 silly addNameRange     '0.7.2',
-1371 silly addNameRange     '0.8.0',
-1371 silly addNameRange     '0.8.1',
-1371 silly addNameRange     '0.8.2',
-1371 silly addNameRange     '0.8.3',
-1371 silly addNameRange     '0.8.4',
-1371 silly addNameRange     '0.8.5',
-1371 silly addNameRange     '0.8.6',
-1371 silly addNameRange     '0.8.8',
-1371 silly addNameRange     '1.0.0' ] ]
-1372 verbose addNamed ejs@0.8.8
-1373 silly addNamed semver.valid 0.8.8
-1374 silly addNamed semver.validRange 0.8.8
+1296 silly addNameRange number 2 { name: 'cookie-parser', range: '>=1.0.1 <1.1.0', hasData: true }
+1297 silly addNameRange versions [ 'cookie-parser',
+1297 silly addNameRange   [ '1.0.0',
+1297 silly addNameRange     '1.0.1',
+1297 silly addNameRange     '1.1.0',
+1297 silly addNameRange     '1.2.0',
+1297 silly addNameRange     '1.3.0',
+1297 silly addNameRange     '1.3.1',
+1297 silly addNameRange     '1.3.2',
+1297 silly addNameRange     '1.3.3' ] ]
+1298 verbose addNamed cookie-parser@1.0.1
+1299 silly addNamed semver.valid 1.0.1
+1300 silly addNamed semver.validRange 1.0.1
+1301 silly cache afterAdd cookie-parser@1.0.1
+1302 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\cookie-parser\1.0.1\package\package.json not in flight; writing
+1303 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\cookie-parser\1.0.1\package\package.json written
+1304 http 304 https://registry.npmjs.org/serve-favicon
+1305 silly get cb [ 304,
+1305 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1305 silly get     server: 'Apache',
+1305 silly get     via: '1.1 varnish',
+1305 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1305 silly get     'cache-control': 'max-age=60',
+1305 silly get     etag: '"32DME59ARJISQ6B7SM9GQJ65I"',
+1305 silly get     age: '0',
+1305 silly get     'x-served-by': 'cache-ord1735-ORD',
+1305 silly get     'x-cache': 'HIT',
+1305 silly get     'x-cache-hits': '1',
+1305 silly get     'x-timer': 'S1417145912.237413,VS0,VE139',
+1305 silly get     vary: 'Accept',
+1305 silly get     'content-length': '0',
+1305 silly get     'keep-alive': 'timeout=10, max=50',
+1305 silly get     connection: 'Keep-Alive' } ]
+1306 verbose etag https://registry.npmjs.org/serve-favicon from cache
+1307 http 304 https://registry.npmjs.org/express-session
+1308 silly get cb [ 304,
+1308 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1308 silly get     server: 'Apache',
+1308 silly get     via: '1.1 varnish',
+1308 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1308 silly get     'cache-control': 'max-age=60',
+1308 silly get     etag: '"TK4P126FRNO73GLU8NZTZ2C3"',
+1308 silly get     age: '0',
+1308 silly get     'x-served-by': 'cache-ord1728-ORD',
+1308 silly get     'x-cache': 'HIT',
+1308 silly get     'x-cache-hits': '1',
+1308 silly get     'x-timer': 'S1417145912.298582,VS0,VE83',
+1308 silly get     vary: 'Accept',
+1308 silly get     'content-length': '0',
+1308 silly get     'keep-alive': 'timeout=10, max=50',
+1308 silly get     connection: 'Keep-Alive' } ]
+1309 verbose etag https://registry.npmjs.org/express-session from cache
+1310 http 304 https://registry.npmjs.org/method-override
+1311 silly get cb [ 304,
+1311 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1311 silly get     server: 'Apache',
+1311 silly get     via: '1.1 varnish',
+1311 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1311 silly get     'cache-control': 'max-age=60',
+1311 silly get     etag: '"ARSLRG3HPV6L40NZ27OSUG5GE"',
+1311 silly get     age: '0',
+1311 silly get     'x-served-by': 'cache-ord1735-ORD',
+1311 silly get     'x-cache': 'HIT',
+1311 silly get     'x-cache-hits': '1',
+1311 silly get     'x-timer': 'S1417145912.266912,VS0,VE138',
+1311 silly get     vary: 'Accept',
+1311 silly get     'content-length': '0',
+1311 silly get     'keep-alive': 'timeout=10, max=50',
+1311 silly get     connection: 'Keep-Alive' } ]
+1312 verbose etag https://registry.npmjs.org/method-override from cache
+1313 silly addNameRange number 2 { name: 'express-session',
+1313 silly addNameRange   range: '>=1.0.2 <1.1.0',
+1313 silly addNameRange   hasData: true }
+1314 silly addNameRange versions [ 'express-session',
+1314 silly addNameRange   [ '1.0.0',
+1314 silly addNameRange     '1.0.1',
+1314 silly addNameRange     '1.0.2',
+1314 silly addNameRange     '1.0.3',
+1314 silly addNameRange     '1.0.4',
+1314 silly addNameRange     '1.1.0',
+1314 silly addNameRange     '1.2.0',
+1314 silly addNameRange     '1.2.1',
+1314 silly addNameRange     '1.3.0',
+1314 silly addNameRange     '1.3.1',
+1314 silly addNameRange     '1.4.0',
+1314 silly addNameRange     '1.5.0',
+1314 silly addNameRange     '1.5.1',
+1314 silly addNameRange     '1.5.2',
+1314 silly addNameRange     '1.6.0',
+1314 silly addNameRange     '1.6.1',
+1314 silly addNameRange     '1.6.2',
+1314 silly addNameRange     '1.6.3',
+1314 silly addNameRange     '1.6.4',
+1314 silly addNameRange     '1.6.5',
+1314 silly addNameRange     '1.7.0',
+1314 silly addNameRange     '1.7.1',
+1314 silly addNameRange     '1.7.2',
+1314 silly addNameRange     '1.7.3',
+1314 silly addNameRange     '1.7.4',
+1314 silly addNameRange     '1.7.5',
+1314 silly addNameRange     '1.7.6',
+1314 silly addNameRange     '1.8.0',
+1314 silly addNameRange     '1.8.1',
+1314 silly addNameRange     '1.8.2',
+1314 silly addNameRange     '1.9.0',
+1314 silly addNameRange     '1.9.1',
+1314 silly addNameRange     '1.9.2' ] ]
+1315 verbose addNamed express-session@1.0.4
+1316 silly addNamed semver.valid 1.0.4
+1317 silly addNamed semver.validRange 1.0.4
+1318 silly addNameRange number 2 { name: 'serve-favicon', range: '>=2.0.1 <2.1.0', hasData: true }
+1319 silly addNameRange versions [ 'serve-favicon',
+1319 silly addNameRange   [ '2.0.0',
+1319 silly addNameRange     '2.0.1',
+1319 silly addNameRange     '2.1.0',
+1319 silly addNameRange     '2.1.1',
+1319 silly addNameRange     '2.1.2',
+1319 silly addNameRange     '2.1.3',
+1319 silly addNameRange     '2.1.4',
+1319 silly addNameRange     '2.1.5',
+1319 silly addNameRange     '2.1.6',
+1319 silly addNameRange     '2.1.7' ] ]
+1320 verbose addNamed serve-favicon@2.0.1
+1321 silly addNamed semver.valid 2.0.1
+1322 silly addNamed semver.validRange 2.0.1
+1323 silly cache afterAdd express-session@1.0.4
+1324 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-session\1.0.4\package\package.json not in flight; writing
+1325 silly cache afterAdd serve-favicon@2.0.1
+1326 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\serve-favicon\2.0.1\package\package.json not in flight; writing
+1327 http 304 https://registry.npmjs.org/morgan
+1328 silly get cb [ 304,
+1328 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1328 silly get     server: 'Apache',
+1328 silly get     via: '1.1 varnish',
+1328 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1328 silly get     'cache-control': 'max-age=60',
+1328 silly get     etag: '"A4D8HEFHF3VM613B88P1RXA9D"',
+1328 silly get     age: '0',
+1328 silly get     'x-served-by': 'cache-ord1724-ORD',
+1328 silly get     'x-cache': 'HIT',
+1328 silly get     'x-cache-hits': '1',
+1328 silly get     'x-timer': 'S1417145912.237326,VS0,VE268',
+1328 silly get     vary: 'Accept',
+1328 silly get     'content-length': '0',
+1328 silly get     'keep-alive': 'timeout=10, max=50',
+1328 silly get     connection: 'Keep-Alive' } ]
+1329 verbose etag https://registry.npmjs.org/morgan from cache
+1330 http 304 https://registry.npmjs.org/lodash
+1331 silly get cb [ 304,
+1331 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1331 silly get     server: 'Apache',
+1331 silly get     via: '1.1 varnish',
+1331 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1331 silly get     'cache-control': 'max-age=60',
+1331 silly get     etag: '"BKFTAPE2U57LC0Z0TNCVIUWXL"',
+1331 silly get     age: '58',
+1331 silly get     'x-served-by': 'cache-ord1735-ORD',
+1331 silly get     'x-cache': 'HIT',
+1331 silly get     'x-cache-hits': '1',
+1331 silly get     'x-timer': 'S1417145912.516968,VS0,VE0',
+1331 silly get     vary: 'Accept',
+1331 silly get     'content-length': '0',
+1331 silly get     'keep-alive': 'timeout=10, max=49',
+1331 silly get     connection: 'Keep-Alive' } ]
+1332 verbose etag https://registry.npmjs.org/lodash from cache
+1333 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-session\1.0.4\package\package.json written
+1334 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\serve-favicon\2.0.1\package\package.json written
+1335 http 304 https://registry.npmjs.org/errorhandler
+1336 silly get cb [ 304,
+1336 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1336 silly get     server: 'Apache',
+1336 silly get     via: '1.1 varnish',
+1336 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1336 silly get     'cache-control': 'max-age=60',
+1336 silly get     etag: '"AWUXIJKRD4L4ZNFU0QKHWPO40"',
+1336 silly get     age: '0',
+1336 silly get     'x-served-by': 'cache-ord1727-ORD',
+1336 silly get     'x-cache': 'HIT',
+1336 silly get     'x-cache-hits': '1',
+1336 silly get     'x-timer': 'S1417145912.407169,VS0,VE135',
+1336 silly get     vary: 'Accept',
+1336 silly get     'content-length': '0',
+1336 silly get     'keep-alive': 'timeout=10, max=49',
+1336 silly get     connection: 'Keep-Alive' } ]
+1337 verbose etag https://registry.npmjs.org/errorhandler from cache
+1338 silly addNameRange number 2 { name: 'method-override',
+1338 silly addNameRange   range: '>=1.0.0 <1.1.0',
+1338 silly addNameRange   hasData: true }
+1339 silly addNameRange versions [ 'method-override',
+1339 silly addNameRange   [ '1.0.0',
+1339 silly addNameRange     '1.0.1',
+1339 silly addNameRange     '1.0.2',
+1339 silly addNameRange     '2.0.0',
+1339 silly addNameRange     '2.0.1',
+1339 silly addNameRange     '2.0.2',
+1339 silly addNameRange     '2.1.0',
+1339 silly addNameRange     '2.1.1',
+1339 silly addNameRange     '2.1.2',
+1339 silly addNameRange     '2.1.3',
+1339 silly addNameRange     '2.2.0',
+1339 silly addNameRange     '2.3.0' ] ]
+1340 verbose addNamed method-override@1.0.2
+1341 silly addNamed semver.valid 1.0.2
+1342 silly addNamed semver.validRange 1.0.2
+1343 http 304 https://registry.npmjs.org/ejs
+1344 silly get cb [ 304,
+1344 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1344 silly get     server: 'Apache',
+1344 silly get     via: '1.1 varnish',
+1344 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1344 silly get     'cache-control': 'max-age=60',
+1344 silly get     etag: '"DFS9PA0D97GJNWG4SMGBGXXH0"',
+1344 silly get     age: '0',
+1344 silly get     'x-served-by': 'cache-ord1728-ORD',
+1344 silly get     'x-cache': 'HIT',
+1344 silly get     'x-cache-hits': '1',
+1344 silly get     'x-timer': 'S1417145912.488381,VS0,VE102',
+1344 silly get     vary: 'Accept',
+1344 silly get     'content-length': '0',
+1344 silly get     'keep-alive': 'timeout=10, max=49',
+1344 silly get     connection: 'Keep-Alive' } ]
+1345 verbose etag https://registry.npmjs.org/ejs from cache
+1346 silly addNameRange number 2 { name: 'morgan', range: '>=1.0.0 <1.1.0', hasData: true }
+1347 silly addNameRange versions [ 'morgan',
+1347 silly addNameRange   [ '1.0.0',
+1347 silly addNameRange     '1.0.1',
+1347 silly addNameRange     '1.1.0',
+1347 silly addNameRange     '1.1.1',
+1347 silly addNameRange     '1.2.0',
+1347 silly addNameRange     '1.2.1',
+1347 silly addNameRange     '1.2.2',
+1347 silly addNameRange     '1.2.3',
+1347 silly addNameRange     '1.3.0',
+1347 silly addNameRange     '1.3.1',
+1347 silly addNameRange     '1.3.2',
+1347 silly addNameRange     '1.4.0',
+1347 silly addNameRange     '1.4.1',
+1347 silly addNameRange     '1.5.0' ] ]
+1348 verbose addNamed morgan@1.0.1
+1349 silly addNamed semver.valid 1.0.1
+1350 silly addNamed semver.validRange 1.0.1
+1351 silly cache afterAdd method-override@1.0.2
+1352 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\method-override\1.0.2\package\package.json not in flight; writing
+1353 http 304 https://registry.npmjs.org/body-parser
+1354 silly get cb [ 304,
+1354 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1354 silly get     server: 'Apache',
+1354 silly get     via: '1.1 varnish',
+1354 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1354 silly get     'cache-control': 'max-age=60',
+1354 silly get     etag: '"5X0SU04JVGRH1KU6UBX5M5BJS"',
+1354 silly get     age: '0',
+1354 silly get     'x-served-by': 'cache-ord1727-ORD',
+1354 silly get     'x-cache': 'HIT',
+1354 silly get     'x-cache-hits': '1',
+1354 silly get     'x-timer': 'S1417145912.637540,VS0,VE0',
+1354 silly get     vary: 'Accept',
+1354 silly get     'content-length': '0',
+1354 silly get     'keep-alive': 'timeout=10, max=48',
+1354 silly get     connection: 'Keep-Alive' } ]
+1355 verbose etag https://registry.npmjs.org/body-parser from cache
+1356 http 304 https://registry.npmjs.org/jsonwebtoken
+1357 silly get cb [ 304,
+1357 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1357 silly get     server: 'Apache',
+1357 silly get     via: '1.1 varnish',
+1357 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1357 silly get     'cache-control': 'max-age=60',
+1357 silly get     etag: '"2Z6XPTSV7C01ABY0T8LL7DDEG"',
+1357 silly get     age: '0',
+1357 silly get     'x-served-by': 'cache-ord1724-ORD',
+1357 silly get     'x-cache': 'MISS',
+1357 silly get     'x-cache-hits': '0',
+1357 silly get     'x-timer': 'S1417145912.617000,VS0,VE29',
+1357 silly get     vary: 'Accept',
+1357 silly get     'content-length': '0',
+1357 silly get     'keep-alive': 'timeout=10, max=49',
+1357 silly get     connection: 'Keep-Alive' } ]
+1358 verbose etag https://registry.npmjs.org/jsonwebtoken from cache
+1359 silly addNameRange number 2 { name: 'lodash', range: '>=2.4.1 <2.5.0', hasData: true }
+1360 silly addNameRange versions [ 'lodash',
+1360 silly addNameRange   [ '0.1.0',
+1360 silly addNameRange     '0.2.0',
+1360 silly addNameRange     '0.2.1',
+1360 silly addNameRange     '0.2.2',
+1360 silly addNameRange     '0.3.0',
+1360 silly addNameRange     '0.3.1',
+1360 silly addNameRange     '0.3.2',
+1360 silly addNameRange     '0.4.0',
+1360 silly addNameRange     '0.4.1',
+1360 silly addNameRange     '0.4.2',
+1360 silly addNameRange     '0.5.0-rc.1',
+1360 silly addNameRange     '0.5.0',
+1360 silly addNameRange     '0.5.1',
+1360 silly addNameRange     '0.5.2',
+1360 silly addNameRange     '0.6.0',
+1360 silly addNameRange     '0.6.1',
+1360 silly addNameRange     '0.7.0',
+1360 silly addNameRange     '0.8.0',
+1360 silly addNameRange     '0.8.1',
+1360 silly addNameRange     '0.8.2',
+1360 silly addNameRange     '0.9.0',
+1360 silly addNameRange     '0.9.1',
+1360 silly addNameRange     '0.9.2',
+1360 silly addNameRange     '0.10.0',
+1360 silly addNameRange     '1.0.0-rc.1',
+1360 silly addNameRange     '1.0.0-rc.2',
+1360 silly addNameRange     '1.0.0-rc.3',
+1360 silly addNameRange     '1.0.0',
+1360 silly addNameRange     '1.0.1',
+1360 silly addNameRange     '1.1.0',
+1360 silly addNameRange     '1.1.1',
+1360 silly addNameRange     '1.2.0',
+1360 silly addNameRange     '1.2.1',
+1360 silly addNameRange     '1.3.0',
+1360 silly addNameRange     '1.3.1',
+1360 silly addNameRange     '2.0.0',
+1360 silly addNameRange     '2.1.0',
+1360 silly addNameRange     '2.2.0',
+1360 silly addNameRange     '2.2.1',
+1360 silly addNameRange     '2.3.0',
+1360 silly addNameRange     '2.4.0',
+1360 silly addNameRange     '2.4.1' ] ]
+1361 verbose addNamed lodash@2.4.1
+1362 silly addNamed semver.valid 2.4.1
+1363 silly addNamed semver.validRange 2.4.1
+1364 silly addNameRange number 2 { name: 'errorhandler', range: '>=1.0.0 <1.1.0', hasData: true }
+1365 silly addNameRange versions [ 'errorhandler',
+1365 silly addNameRange   [ '1.0.0',
+1365 silly addNameRange     '1.0.1',
+1365 silly addNameRange     '1.0.2',
+1365 silly addNameRange     '1.1.0',
+1365 silly addNameRange     '1.1.1',
+1365 silly addNameRange     '1.2.0',
+1365 silly addNameRange     '1.2.1',
+1365 silly addNameRange     '1.2.2',
+1365 silly addNameRange     '1.2.3',
+1365 silly addNameRange     '1.3.0' ] ]
+1366 verbose addNamed errorhandler@1.0.2
+1367 silly addNamed semver.valid 1.0.2
+1368 silly addNamed semver.validRange 1.0.2
+1369 silly cache afterAdd morgan@1.0.1
+1370 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\morgan\1.0.1\package\package.json not in flight; writing
+1371 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\method-override\1.0.2\package\package.json written
+1372 http 304 https://registry.npmjs.org/passport
+1373 silly get cb [ 304,
+1373 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1373 silly get     server: 'Apache',
+1373 silly get     via: '1.1 varnish',
+1373 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1373 silly get     'cache-control': 'max-age=60',
+1373 silly get     etag: '"6LLG05E9PIUHUTYCJKIP28EGR"',
+1373 silly get     age: '0',
+1373 silly get     'x-served-by': 'cache-ord1728-ORD',
+1373 silly get     'x-cache': 'HIT',
+1373 silly get     'x-cache-hits': '1',
+1373 silly get     'x-timer': 'S1417145912.688102,VS0,VE29',
+1373 silly get     vary: 'Accept',
+1373 silly get     'content-length': '0',
+1373 silly get     'keep-alive': 'timeout=10, max=48',
+1373 silly get     connection: 'Keep-Alive' } ]
+1374 verbose etag https://registry.npmjs.org/passport from cache
 1375 silly cache afterAdd lodash@2.4.1
 1376 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\lodash\2.4.1\package\package.json not in flight; writing
-1377 silly cache afterAdd ejs@0.8.8
-1378 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\ejs\0.8.8\package\package.json not in flight; writing
-1379 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\lodash\2.4.1\package\package.json written
-1380 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\ejs\0.8.8\package\package.json written
-1381 http 304 https://registry.npmjs.org/express-jwt
-1382 silly get cb [ 304,
-1382 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1382 silly get     server: 'Apache',
-1382 silly get     via: '1.1 varnish',
-1382 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1382 silly get     'cache-control': 'max-age=60',
-1382 silly get     etag: '"9Z1PH5VY7SQ6806ESUA1LI8OH"',
-1382 silly get     age: '0',
-1382 silly get     'x-served-by': 'cache-ord1734-ORD',
-1382 silly get     'x-cache': 'MISS',
-1382 silly get     'x-cache-hits': '0',
-1382 silly get     'x-timer': 'S1417145809.618396,VS0,VE30',
-1382 silly get     vary: 'Accept',
-1382 silly get     'content-length': '0',
-1382 silly get     'keep-alive': 'timeout=10, max=48',
-1382 silly get     connection: 'Keep-Alive' } ]
-1383 verbose etag https://registry.npmjs.org/express-jwt from cache
-1384 http 304 https://registry.npmjs.org/errorhandler
-1385 silly get cb [ 304,
-1385 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1385 silly get     server: 'Apache',
-1385 silly get     via: '1.1 varnish',
-1385 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1385 silly get     'cache-control': 'max-age=60',
-1385 silly get     etag: '"AWUXIJKRD4L4ZNFU0QKHWPO40"',
-1385 silly get     age: '0',
-1385 silly get     'x-served-by': 'cache-ord1724-ORD',
-1385 silly get     'x-cache': 'HIT',
-1385 silly get     'x-cache-hits': '1',
-1385 silly get     'x-timer': 'S1417145809.347923,VS0,VE303',
-1385 silly get     vary: 'Accept',
-1385 silly get     'content-length': '0',
-1385 silly get     'keep-alive': 'timeout=10, max=49',
-1385 silly get     connection: 'Keep-Alive' } ]
-1386 verbose etag https://registry.npmjs.org/errorhandler from cache
-1387 http 304 https://registry.npmjs.org/passport
-1388 silly get cb [ 304,
-1388 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1388 silly get     server: 'Apache',
-1388 silly get     via: '1.1 varnish',
-1388 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1388 silly get     'cache-control': 'max-age=60',
-1388 silly get     etag: '"6LLG05E9PIUHUTYCJKIP28EGR"',
-1388 silly get     age: '0',
-1388 silly get     'x-served-by': 'cache-ord1721-ORD',
-1388 silly get     'x-cache': 'HIT',
-1388 silly get     'x-cache-hits': '1',
-1388 silly get     'x-timer': 'S1417145809.631451,VS0,VE28',
-1388 silly get     vary: 'Accept',
-1388 silly get     'content-length': '0',
-1388 silly get     'keep-alive': 'timeout=10, max=48',
-1388 silly get     connection: 'Keep-Alive' } ]
-1389 verbose etag https://registry.npmjs.org/passport from cache
-1390 http 304 https://registry.npmjs.org/compression
-1391 silly get cb [ 304,
-1391 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1391 silly get     server: 'Apache',
-1391 silly get     via: '1.1 varnish',
-1391 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1391 silly get     'cache-control': 'max-age=60',
-1391 silly get     etag: '"4UJB5IH7DDKPPW0WX2AIWGIEG"',
-1391 silly get     age: '0',
-1391 silly get     'x-served-by': 'cache-ord1735-ORD',
-1391 silly get     'x-cache': 'HIT',
-1391 silly get     'x-cache-hits': '1',
-1391 silly get     'x-timer': 'S1417145809.358526,VS0,VE307',
-1391 silly get     vary: 'Accept',
-1391 silly get     'content-length': '0',
-1391 silly get     'keep-alive': 'timeout=10, max=49',
-1391 silly get     connection: 'Keep-Alive' } ]
-1392 verbose etag https://registry.npmjs.org/compression from cache
-1393 silly addNameRange number 2 { name: 'errorhandler', range: '>=1.0.0 <1.1.0', hasData: true }
-1394 silly addNameRange versions [ 'errorhandler',
-1394 silly addNameRange   [ '1.0.0',
-1394 silly addNameRange     '1.0.1',
-1394 silly addNameRange     '1.0.2',
-1394 silly addNameRange     '1.1.0',
-1394 silly addNameRange     '1.1.1',
-1394 silly addNameRange     '1.2.0',
-1394 silly addNameRange     '1.2.1',
-1394 silly addNameRange     '1.2.2',
-1394 silly addNameRange     '1.2.3',
-1394 silly addNameRange     '1.3.0' ] ]
-1395 verbose addNamed errorhandler@1.0.2
-1396 silly addNamed semver.valid 1.0.2
-1397 silly addNamed semver.validRange 1.0.2
-1398 silly addNameRange number 2 { name: 'express-jwt', range: '>=0.1.3 <0.2.0', hasData: true }
-1399 silly addNameRange versions [ 'express-jwt',
-1399 silly addNameRange   [ '0.1.0',
-1399 silly addNameRange     '0.1.1',
-1399 silly addNameRange     '0.1.2',
-1399 silly addNameRange     '0.2.0',
-1399 silly addNameRange     '0.1.3',
-1399 silly addNameRange     '0.1.4',
-1399 silly addNameRange     '0.2.1',
-1399 silly addNameRange     '0.2.2',
-1399 silly addNameRange     '0.3.0',
-1399 silly addNameRange     '0.3.1',
-1399 silly addNameRange     '0.3.2',
-1399 silly addNameRange     '0.4.0',
-1399 silly addNameRange     '0.5.0',
-1399 silly addNameRange     '0.5.1' ] ]
-1400 verbose addNamed express-jwt@0.1.4
-1401 silly addNamed semver.valid 0.1.4
-1402 silly addNamed semver.validRange 0.1.4
-1403 silly addNameRange number 2 { name: 'passport', range: '>=0.2.0 <0.3.0', hasData: true }
-1404 silly addNameRange versions [ 'passport',
-1404 silly addNameRange   [ '0.1.0',
-1404 silly addNameRange     '0.1.1',
-1404 silly addNameRange     '0.1.2',
-1404 silly addNameRange     '0.1.3',
-1404 silly addNameRange     '0.1.4',
-1404 silly addNameRange     '0.1.5',
-1404 silly addNameRange     '0.1.6',
-1404 silly addNameRange     '0.1.7',
-1404 silly addNameRange     '0.1.8',
-1404 silly addNameRange     '0.1.9',
-1404 silly addNameRange     '0.1.10',
-1404 silly addNameRange     '0.1.11',
-1404 silly addNameRange     '0.1.12',
-1404 silly addNameRange     '0.1.13',
-1404 silly addNameRange     '0.1.14',
-1404 silly addNameRange     '0.1.15',
-1404 silly addNameRange     '0.1.16',
-1404 silly addNameRange     '0.1.17',
-1404 silly addNameRange     '0.1.18',
-1404 silly addNameRange     '0.2.0',
-1404 silly addNameRange     '0.2.1' ] ]
-1405 verbose addNamed passport@0.2.1
-1406 silly addNamed semver.valid 0.2.1
-1407 silly addNamed semver.validRange 0.2.1
-1408 silly addNameRange number 2 { name: 'compression', range: '>=1.0.1 <1.1.0', hasData: true }
-1409 silly addNameRange versions [ 'compression',
-1409 silly addNameRange   [ '1.0.0',
-1409 silly addNameRange     '1.0.1',
-1409 silly addNameRange     '1.0.2',
-1409 silly addNameRange     '1.0.3',
-1409 silly addNameRange     '1.0.4',
-1409 silly addNameRange     '1.0.5',
-1409 silly addNameRange     '1.0.6',
-1409 silly addNameRange     '1.0.7',
-1409 silly addNameRange     '1.0.8',
-1409 silly addNameRange     '1.0.9',
-1409 silly addNameRange     '1.0.10',
-1409 silly addNameRange     '1.0.11',
-1409 silly addNameRange     '1.1.0',
-1409 silly addNameRange     '1.1.1',
-1409 silly addNameRange     '1.1.2',
-1409 silly addNameRange     '1.2.0',
-1409 silly addNameRange     '1.2.1' ] ]
-1410 verbose addNamed compression@1.0.11
-1411 silly addNamed semver.valid 1.0.11
-1412 silly addNamed semver.validRange 1.0.11
-1413 silly cache afterAdd errorhandler@1.0.2
-1414 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\errorhandler\1.0.2\package\package.json not in flight; writing
-1415 silly cache afterAdd express-jwt@0.1.4
-1416 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-jwt\0.1.4\package\package.json not in flight; writing
-1417 silly cache afterAdd compression@1.0.11
-1418 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\compression\1.0.11\package\package.json not in flight; writing
-1419 silly cache afterAdd passport@0.2.1
-1420 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport\0.2.1\package\package.json not in flight; writing
-1421 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\errorhandler\1.0.2\package\package.json written
-1422 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\compression\1.0.11\package\package.json written
-1423 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-jwt\0.1.4\package\package.json written
-1424 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport\0.2.1\package\package.json written
-1425 http 304 https://registry.npmjs.org/mongoose
-1426 silly get cb [ 304,
-1426 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1426 silly get     server: 'Apache',
-1426 silly get     via: '1.1 varnish',
-1426 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1426 silly get     'cache-control': 'max-age=60',
-1426 silly get     etag: '"BT0U6A5FYUER4F014H1G6SBLN"',
-1426 silly get     age: '0',
-1426 silly get     'x-served-by': 'cache-ord1734-ORD',
-1426 silly get     'x-cache': 'HIT',
-1426 silly get     'x-cache-hits': '1',
-1426 silly get     'x-timer': 'S1417145809.738463,VS0,VE72',
-1426 silly get     vary: 'Accept',
-1426 silly get     'content-length': '0',
-1426 silly get     'keep-alive': 'timeout=10, max=47',
-1426 silly get     connection: 'Keep-Alive' } ]
-1427 verbose etag https://registry.npmjs.org/mongoose from cache
-1428 http 304 https://registry.npmjs.org/jsonwebtoken
-1429 silly get cb [ 304,
-1429 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1429 silly get     server: 'Apache',
-1429 silly get     via: '1.1 varnish',
-1429 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1429 silly get     'cache-control': 'max-age=60',
-1429 silly get     etag: '"2Z6XPTSV7C01ABY0T8LL7DDEG"',
-1429 silly get     age: '0',
-1429 silly get     'x-served-by': 'cache-ord1735-ORD',
-1429 silly get     'x-cache': 'MISS',
-1429 silly get     'x-cache-hits': '0',
-1429 silly get     'x-timer': 'S1417145809.558184,VS0,VE306',
-1429 silly get     vary: 'Accept',
-1429 silly get     'content-length': '0',
-1429 silly get     'keep-alive': 'timeout=10, max=48',
-1429 silly get     connection: 'Keep-Alive' } ]
-1430 verbose etag https://registry.npmjs.org/jsonwebtoken from cache
-1431 http 304 https://registry.npmjs.org/passport-facebook
-1432 silly get cb [ 304,
-1432 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1432 silly get     server: 'Apache',
-1432 silly get     via: '1.1 varnish',
-1432 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1432 silly get     'cache-control': 'max-age=60',
-1432 silly get     etag: '"3X8OKKBLSLK9O9GPF6FZLB1XW"',
-1432 silly get     age: '0',
-1432 silly get     'x-served-by': 'cache-ord1721-ORD',
-1432 silly get     'x-cache': 'MISS',
-1432 silly get     'x-cache-hits': '0',
-1432 silly get     'x-timer': 'S1417145809.801828,VS0,VE72',
-1432 silly get     vary: 'Accept',
-1432 silly get     'content-length': '0',
-1432 silly get     'keep-alive': 'timeout=10, max=47',
-1432 silly get     connection: 'Keep-Alive' } ]
-1433 verbose etag https://registry.npmjs.org/passport-facebook from cache
-1434 http 304 https://registry.npmjs.org/passport-twitter
+1377 silly cache afterAdd errorhandler@1.0.2
+1378 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\errorhandler\1.0.2\package\package.json not in flight; writing
+1379 silly addNameRange number 2 { name: 'body-parser', range: '>=1.5.0 <1.6.0', hasData: true }
+1380 silly addNameRange versions [ 'body-parser',
+1380 silly addNameRange   [ '1.0.0',
+1380 silly addNameRange     '1.0.1',
+1380 silly addNameRange     '1.0.2',
+1380 silly addNameRange     '1.1.0',
+1380 silly addNameRange     '1.1.1',
+1380 silly addNameRange     '1.1.2',
+1380 silly addNameRange     '1.2.0',
+1380 silly addNameRange     '1.2.1',
+1380 silly addNameRange     '1.2.2',
+1380 silly addNameRange     '1.3.0',
+1380 silly addNameRange     '1.3.1',
+1380 silly addNameRange     '1.4.0',
+1380 silly addNameRange     '1.4.1',
+1380 silly addNameRange     '1.4.2',
+1380 silly addNameRange     '1.4.3',
+1380 silly addNameRange     '1.5.0',
+1380 silly addNameRange     '1.5.1',
+1380 silly addNameRange     '1.5.2',
+1380 silly addNameRange     '1.6.0',
+1380 silly addNameRange     '1.6.1',
+1380 silly addNameRange     '1.6.2',
+1380 silly addNameRange     '1.6.3',
+1380 silly addNameRange     '1.6.4',
+1380 silly addNameRange     '1.6.5',
+1380 silly addNameRange     '1.6.6',
+1380 silly addNameRange     '1.6.7',
+1380 silly addNameRange     '1.7.0',
+1380 silly addNameRange     '1.8.0',
+1380 silly addNameRange     '1.8.1',
+1380 silly addNameRange     '1.8.2',
+1380 silly addNameRange     '1.8.3',
+1380 silly addNameRange     '1.8.4',
+1380 silly addNameRange     '1.9.0',
+1380 silly addNameRange     '1.9.1',
+1380 silly addNameRange     '1.9.2',
+1380 silly addNameRange     '1.9.3' ] ]
+1381 verbose addNamed body-parser@1.5.2
+1382 silly addNamed semver.valid 1.5.2
+1383 silly addNamed semver.validRange 1.5.2
+1384 silly addNameRange number 2 { name: 'ejs', range: '>=0.8.4 <0.9.0', hasData: true }
+1385 silly addNameRange versions [ 'ejs',
+1385 silly addNameRange   [ '0.0.1',
+1385 silly addNameRange     '0.0.2',
+1385 silly addNameRange     '0.0.3',
+1385 silly addNameRange     '0.0.4',
+1385 silly addNameRange     '0.1.0',
+1385 silly addNameRange     '0.2.0',
+1385 silly addNameRange     '0.2.1',
+1385 silly addNameRange     '0.3.0',
+1385 silly addNameRange     '0.3.1',
+1385 silly addNameRange     '0.4.0',
+1385 silly addNameRange     '0.4.1',
+1385 silly addNameRange     '0.4.2',
+1385 silly addNameRange     '0.4.3',
+1385 silly addNameRange     '0.5.0',
+1385 silly addNameRange     '0.6.0',
+1385 silly addNameRange     '0.6.1',
+1385 silly addNameRange     '0.7.0',
+1385 silly addNameRange     '0.7.1',
+1385 silly addNameRange     '0.7.2',
+1385 silly addNameRange     '0.8.0',
+1385 silly addNameRange     '0.8.1',
+1385 silly addNameRange     '0.8.2',
+1385 silly addNameRange     '0.8.3',
+1385 silly addNameRange     '0.8.4',
+1385 silly addNameRange     '0.8.5',
+1385 silly addNameRange     '0.8.6',
+1385 silly addNameRange     '0.8.8',
+1385 silly addNameRange     '1.0.0' ] ]
+1386 verbose addNamed ejs@0.8.8
+1387 silly addNamed semver.valid 0.8.8
+1388 silly addNamed semver.validRange 0.8.8
+1389 silly addNameRange number 2 { name: 'jsonwebtoken', range: '>=0.3.0 <0.4.0', hasData: true }
+1390 silly addNameRange versions [ 'jsonwebtoken',
+1390 silly addNameRange   [ '0.1.0',
+1390 silly addNameRange     '0.2.0',
+1390 silly addNameRange     '0.3.0',
+1390 silly addNameRange     '0.4.0',
+1390 silly addNameRange     '0.4.1',
+1390 silly addNameRange     '1.0.0',
+1390 silly addNameRange     '1.0.2',
+1390 silly addNameRange     '1.1.0',
+1390 silly addNameRange     '1.1.1',
+1390 silly addNameRange     '1.1.2',
+1390 silly addNameRange     '1.2.0' ] ]
+1391 verbose addNamed jsonwebtoken@0.3.0
+1392 silly addNamed semver.valid 0.3.0
+1393 silly addNamed semver.validRange 0.3.0
+1394 http 304 https://registry.npmjs.org/compression
+1395 silly get cb [ 304,
+1395 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1395 silly get     server: 'Apache',
+1395 silly get     via: '1.1 varnish',
+1395 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1395 silly get     'cache-control': 'max-age=60',
+1395 silly get     etag: '"4UJB5IH7DDKPPW0WX2AIWGIEG"',
+1395 silly get     age: '0',
+1395 silly get     'x-served-by': 'cache-ord1735-ORD',
+1395 silly get     'x-cache': 'HIT',
+1395 silly get     'x-cache-hits': '1',
+1395 silly get     'x-timer': 'S1417145912.477979,VS0,VE302',
+1395 silly get     vary: 'Accept',
+1395 silly get     'content-length': '0',
+1395 silly get     'keep-alive': 'timeout=10, max=49',
+1395 silly get     connection: 'Keep-Alive' } ]
+1396 verbose etag https://registry.npmjs.org/compression from cache
+1397 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\morgan\1.0.1\package\package.json written
+1398 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\errorhandler\1.0.2\package\package.json written
+1399 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\lodash\2.4.1\package\package.json written
+1400 silly cache afterAdd body-parser@1.5.2
+1401 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\body-parser\1.5.2\package\package.json not in flight; writing
+1402 silly addNameRange number 2 { name: 'passport', range: '>=0.2.0 <0.3.0', hasData: true }
+1403 silly addNameRange versions [ 'passport',
+1403 silly addNameRange   [ '0.1.0',
+1403 silly addNameRange     '0.1.1',
+1403 silly addNameRange     '0.1.2',
+1403 silly addNameRange     '0.1.3',
+1403 silly addNameRange     '0.1.4',
+1403 silly addNameRange     '0.1.5',
+1403 silly addNameRange     '0.1.6',
+1403 silly addNameRange     '0.1.7',
+1403 silly addNameRange     '0.1.8',
+1403 silly addNameRange     '0.1.9',
+1403 silly addNameRange     '0.1.10',
+1403 silly addNameRange     '0.1.11',
+1403 silly addNameRange     '0.1.12',
+1403 silly addNameRange     '0.1.13',
+1403 silly addNameRange     '0.1.14',
+1403 silly addNameRange     '0.1.15',
+1403 silly addNameRange     '0.1.16',
+1403 silly addNameRange     '0.1.17',
+1403 silly addNameRange     '0.1.18',
+1403 silly addNameRange     '0.2.0',
+1403 silly addNameRange     '0.2.1' ] ]
+1404 verbose addNamed passport@0.2.1
+1405 silly addNamed semver.valid 0.2.1
+1406 silly addNamed semver.validRange 0.2.1
+1407 silly cache afterAdd ejs@0.8.8
+1408 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\ejs\0.8.8\package\package.json not in flight; writing
+1409 silly cache afterAdd jsonwebtoken@0.3.0
+1410 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\jsonwebtoken\0.3.0\package\package.json not in flight; writing
+1411 http 304 https://registry.npmjs.org/passport-facebook
+1412 silly get cb [ 304,
+1412 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1412 silly get     server: 'Apache',
+1412 silly get     via: '1.1 varnish',
+1412 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1412 silly get     'cache-control': 'max-age=60',
+1412 silly get     etag: '"3X8OKKBLSLK9O9GPF6FZLB1XW"',
+1412 silly get     age: '0',
+1412 silly get     'x-served-by': 'cache-ord1728-ORD',
+1412 silly get     'x-cache': 'MISS',
+1412 silly get     'x-cache-hits': '0',
+1412 silly get     'x-timer': 'S1417145912.808296,VS0,VE37',
+1412 silly get     vary: 'Accept',
+1412 silly get     'content-length': '0',
+1412 silly get     'keep-alive': 'timeout=10, max=47',
+1412 silly get     connection: 'Keep-Alive' } ]
+1413 verbose etag https://registry.npmjs.org/passport-facebook from cache
+1414 silly addNameRange number 2 { name: 'compression', range: '>=1.0.1 <1.1.0', hasData: true }
+1415 silly addNameRange versions [ 'compression',
+1415 silly addNameRange   [ '1.0.0',
+1415 silly addNameRange     '1.0.1',
+1415 silly addNameRange     '1.0.2',
+1415 silly addNameRange     '1.0.3',
+1415 silly addNameRange     '1.0.4',
+1415 silly addNameRange     '1.0.5',
+1415 silly addNameRange     '1.0.6',
+1415 silly addNameRange     '1.0.7',
+1415 silly addNameRange     '1.0.8',
+1415 silly addNameRange     '1.0.9',
+1415 silly addNameRange     '1.0.10',
+1415 silly addNameRange     '1.0.11',
+1415 silly addNameRange     '1.1.0',
+1415 silly addNameRange     '1.1.1',
+1415 silly addNameRange     '1.1.2',
+1415 silly addNameRange     '1.2.0',
+1415 silly addNameRange     '1.2.1' ] ]
+1416 verbose addNamed compression@1.0.11
+1417 silly addNamed semver.valid 1.0.11
+1418 silly addNamed semver.validRange 1.0.11
+1419 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\body-parser\1.5.2\package\package.json written
+1420 silly cache afterAdd passport@0.2.1
+1421 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport\0.2.1\package\package.json not in flight; writing
+1422 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\jsonwebtoken\0.3.0\package\package.json written
+1423 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\ejs\0.8.8\package\package.json written
+1424 silly cache afterAdd compression@1.0.11
+1425 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\compression\1.0.11\package\package.json not in flight; writing
+1426 http 304 https://registry.npmjs.org/passport-google-oauth
+1427 silly get cb [ 304,
+1427 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1427 silly get     server: 'Apache',
+1427 silly get     via: '1.1 varnish',
+1427 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
+1427 silly get     'cache-control': 'max-age=60',
+1427 silly get     etag: '"CNH1HR2EP7JOPTNOKQR95WBCR"',
+1427 silly get     age: '0',
+1427 silly get     'x-served-by': 'cache-ord1735-ORD',
+1427 silly get     'x-cache': 'MISS',
+1427 silly get     'x-cache-hits': '0',
+1427 silly get     'x-timer': 'S1417145912.887856,VS0,VE27',
+1427 silly get     vary: 'Accept',
+1427 silly get     'content-length': '0',
+1427 silly get     'keep-alive': 'timeout=10, max=48',
+1427 silly get     connection: 'Keep-Alive' } ]
+1428 verbose etag https://registry.npmjs.org/passport-google-oauth from cache
+1429 silly addNameTag next cb for passport-facebook with tag latest
+1430 verbose addNamed passport-facebook@1.0.3
+1431 silly addNamed semver.valid 1.0.3
+1432 silly addNamed semver.validRange 1.0.3
+1433 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport\0.2.1\package\package.json written
+1434 http 304 https://registry.npmjs.org/express-jwt
 1435 silly get cb [ 304,
-1435 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
+1435 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
 1435 silly get     server: 'Apache',
 1435 silly get     via: '1.1 varnish',
-1435 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
+1435 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:32 GMT',
 1435 silly get     'cache-control': 'max-age=60',
-1435 silly get     etag: '"D6OXY6VP3GYN5QYO3PS9VCMKV"',
+1435 silly get     etag: '"9Z1PH5VY7SQ6806ESUA1LI8OH"',
 1435 silly get     age: '0',
 1435 silly get     'x-served-by': 'cache-ord1735-ORD',
-1435 silly get     'x-cache': 'HIT',
-1435 silly get     'x-cache-hits': '1',
-1435 silly get     'x-timer': 'S1417145809.798920,VS0,VE76',
+1435 silly get     'x-cache': 'MISS',
+1435 silly get     'x-cache-hits': '0',
+1435 silly get     'x-timer': 'S1417145912.627331,VS0,VE306',
 1435 silly get     vary: 'Accept',
 1435 silly get     'content-length': '0',
 1435 silly get     'keep-alive': 'timeout=10, max=48',
 1435 silly get     connection: 'Keep-Alive' } ]
-1436 verbose etag https://registry.npmjs.org/passport-twitter from cache
-1437 http 304 https://registry.npmjs.org/passport-local
-1438 silly get cb [ 304,
-1438 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1438 silly get     server: 'Apache',
-1438 silly get     via: '1.1 varnish',
-1438 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1438 silly get     'cache-control': 'max-age=60',
-1438 silly get     etag: '"F2MBNKV8QACAF4X2DU6NVNKR8"',
-1438 silly get     age: '0',
-1438 silly get     'x-served-by': 'cache-ord1724-ORD',
-1438 silly get     'x-cache': 'HIT',
-1438 silly get     'x-cache-hits': '1',
-1438 silly get     'x-timer': 'S1417145809.748150,VS0,VE135',
-1438 silly get     vary: 'Accept',
-1438 silly get     'content-length': '0',
-1438 silly get     'keep-alive': 'timeout=10, max=48',
-1438 silly get     connection: 'Keep-Alive' } ]
-1439 verbose etag https://registry.npmjs.org/passport-local from cache
-1440 http 304 https://registry.npmjs.org/passport-google-oauth
-1441 silly get cb [ 304,
-1441 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
-1441 silly get     server: 'Apache',
-1441 silly get     via: '1.1 varnish',
-1441 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:49 GMT',
-1441 silly get     'cache-control': 'max-age=60',
-1441 silly get     etag: '"CNH1HR2EP7JOPTNOKQR95WBCR"',
-1441 silly get     age: '0',
-1441 silly get     'x-served-by': 'cache-ord1734-ORD',
-1441 silly get     'x-cache': 'MISS',
-1441 silly get     'x-cache-hits': '0',
-1441 silly get     'x-timer': 'S1417145809.898517,VS0,VE28',
-1441 silly get     vary: 'Accept',
-1441 silly get     'content-length': '0',
-1441 silly get     'keep-alive': 'timeout=10, max=46',
-1441 silly get     connection: 'Keep-Alive' } ]
-1442 verbose etag https://registry.npmjs.org/passport-google-oauth from cache
-1443 silly addNameTag next cb for mongoose with tag latest
-1444 verbose addNamed mongoose@3.8.19
-1445 silly addNamed semver.valid 3.8.19
-1446 silly addNamed semver.validRange 3.8.19
-1447 silly addNameTag next cb for passport-facebook with tag latest
-1448 verbose addNamed passport-facebook@1.0.3
-1449 silly addNamed semver.valid 1.0.3
-1450 silly addNamed semver.validRange 1.0.3
-1451 silly addNameRange number 2 { name: 'jsonwebtoken', range: '>=0.3.0 <0.4.0', hasData: true }
-1452 silly addNameRange versions [ 'jsonwebtoken',
-1452 silly addNameRange   [ '0.1.0',
-1452 silly addNameRange     '0.2.0',
-1452 silly addNameRange     '0.3.0',
-1452 silly addNameRange     '0.4.0',
-1452 silly addNameRange     '0.4.1',
-1452 silly addNameRange     '1.0.0',
-1452 silly addNameRange     '1.0.2',
-1452 silly addNameRange     '1.1.0',
-1452 silly addNameRange     '1.1.1',
-1452 silly addNameRange     '1.1.2',
-1452 silly addNameRange     '1.2.0' ] ]
-1453 verbose addNamed jsonwebtoken@0.3.0
-1454 silly addNamed semver.valid 0.3.0
-1455 silly addNamed semver.validRange 0.3.0
-1456 silly addNameRange number 2 { name: 'passport-local',
-1456 silly addNameRange   range: '>=0.1.6 <0.2.0',
-1456 silly addNameRange   hasData: true }
-1457 silly addNameRange versions [ 'passport-local',
-1457 silly addNameRange   [ '0.1.0',
-1457 silly addNameRange     '0.1.1',
-1457 silly addNameRange     '0.1.2',
-1457 silly addNameRange     '0.1.3',
-1457 silly addNameRange     '0.1.4',
-1457 silly addNameRange     '0.1.5',
-1457 silly addNameRange     '0.1.6',
-1457 silly addNameRange     '1.0.0' ] ]
-1458 verbose addNamed passport-local@0.1.6
-1459 silly addNamed semver.valid 0.1.6
-1460 silly addNamed semver.validRange 0.1.6
-1461 silly addNameTag next cb for passport-twitter with tag latest
-1462 verbose addNamed passport-twitter@1.0.2
-1463 silly addNamed semver.valid 1.0.2
-1464 silly addNamed semver.validRange 1.0.2
-1465 silly addNameTag next cb for passport-google-oauth with tag latest
-1466 verbose addNamed passport-google-oauth@0.1.5
-1467 silly addNamed semver.valid 0.1.5
-1468 silly addNamed semver.validRange 0.1.5
-1469 http 304 https://registry.npmjs.org/socket.io
-1470 silly get cb [ 304,
-1470 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1470 silly get     server: 'Apache',
-1470 silly get     via: '1.1 varnish',
-1470 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1470 silly get     'cache-control': 'max-age=60',
-1470 silly get     etag: '"204LXKH3R5W7GUUILRZ92T0AH"',
-1470 silly get     age: '0',
-1470 silly get     'x-served-by': 'cache-ord1735-ORD',
-1470 silly get     'x-cache': 'HIT',
-1470 silly get     'x-cache-hits': '1',
-1470 silly get     'x-timer': 'S1417145810.009283,VS0,VE29',
-1470 silly get     vary: 'Accept',
-1470 silly get     'content-length': '0',
-1470 silly get     'keep-alive': 'timeout=10, max=47',
-1470 silly get     connection: 'Keep-Alive' } ]
-1471 verbose etag https://registry.npmjs.org/socket.io from cache
-1472 silly cache afterAdd mongoose@3.8.19
-1473 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\mongoose\3.8.19\package\package.json not in flight; writing
-1474 http 304 https://registry.npmjs.org/socketio-jwt
-1475 silly get cb [ 304,
-1475 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1475 silly get     server: 'Apache',
-1475 silly get     via: '1.1 varnish',
-1475 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1475 silly get     'cache-control': 'max-age=60',
-1475 silly get     etag: '"585PMITW3T5Z1X7VTUVI9YINE"',
-1475 silly get     age: '0',
-1475 silly get     'x-served-by': 'cache-ord1734-ORD',
-1475 silly get     'x-cache': 'MISS',
-1475 silly get     'x-cache-hits': '0',
-1475 silly get     'x-timer': 'S1417145810.018573,VS0,VE29',
-1475 silly get     vary: 'Accept',
-1475 silly get     'content-length': '0',
-1475 silly get     'keep-alive': 'timeout=10, max=45',
-1475 silly get     connection: 'Keep-Alive' } ]
-1476 verbose etag https://registry.npmjs.org/socketio-jwt from cache
-1477 http 304 https://registry.npmjs.org/composable-middleware
+1436 verbose etag https://registry.npmjs.org/express-jwt from cache
+1437 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\compression\1.0.11\package\package.json written
+1438 silly cache afterAdd passport-facebook@1.0.3
+1439 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-facebook\1.0.3\package\package.json not in flight; writing
+1440 silly addNameTag next cb for passport-google-oauth with tag latest
+1441 verbose addNamed passport-google-oauth@0.1.5
+1442 silly addNamed semver.valid 0.1.5
+1443 silly addNamed semver.validRange 0.1.5
+1444 silly addNameRange number 2 { name: 'express-jwt', range: '>=0.1.3 <0.2.0', hasData: true }
+1445 silly addNameRange versions [ 'express-jwt',
+1445 silly addNameRange   [ '0.1.0',
+1445 silly addNameRange     '0.1.1',
+1445 silly addNameRange     '0.1.2',
+1445 silly addNameRange     '0.2.0',
+1445 silly addNameRange     '0.1.3',
+1445 silly addNameRange     '0.1.4',
+1445 silly addNameRange     '0.2.1',
+1445 silly addNameRange     '0.2.2',
+1445 silly addNameRange     '0.3.0',
+1445 silly addNameRange     '0.3.1',
+1445 silly addNameRange     '0.3.2',
+1445 silly addNameRange     '0.4.0',
+1445 silly addNameRange     '0.5.0',
+1445 silly addNameRange     '0.5.1' ] ]
+1446 verbose addNamed express-jwt@0.1.4
+1447 silly addNamed semver.valid 0.1.4
+1448 silly addNamed semver.validRange 0.1.4
+1449 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-facebook\1.0.3\package\package.json written
+1450 silly cache afterAdd passport-google-oauth@0.1.5
+1451 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-google-oauth\0.1.5\package\package.json not in flight; writing
+1452 silly cache afterAdd express-jwt@0.1.4
+1453 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-jwt\0.1.4\package\package.json not in flight; writing
+1454 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-google-oauth\0.1.5\package\package.json written
+1455 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\express-jwt\0.1.4\package\package.json written
+1456 http 304 https://registry.npmjs.org/mongoose
+1457 silly get cb [ 304,
+1457 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1457 silly get     server: 'Apache',
+1457 silly get     via: '1.1 varnish',
+1457 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1457 silly get     'cache-control': 'max-age=60',
+1457 silly get     etag: '"BT0U6A5FYUER4F014H1G6SBLN"',
+1457 silly get     age: '0',
+1457 silly get     'x-served-by': 'cache-ord1727-ORD',
+1457 silly get     'x-cache': 'HIT',
+1457 silly get     'x-cache-hits': '1',
+1457 silly get     'x-timer': 'S1417145912.737665,VS0,VE297',
+1457 silly get     vary: 'Accept',
+1457 silly get     'content-length': '0',
+1457 silly get     'keep-alive': 'timeout=10, max=47',
+1457 silly get     connection: 'Keep-Alive' } ]
+1458 verbose etag https://registry.npmjs.org/mongoose from cache
+1459 silly addNameTag next cb for mongoose with tag latest
+1460 verbose addNamed mongoose@3.8.19
+1461 silly addNamed semver.valid 3.8.19
+1462 silly addNamed semver.validRange 3.8.19
+1463 silly cache afterAdd mongoose@3.8.19
+1464 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\mongoose\3.8.19\package\package.json not in flight; writing
+1465 http 304 https://registry.npmjs.org/passport-local
+1466 silly get cb [ 304,
+1466 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
+1466 silly get     server: 'Apache',
+1466 silly get     via: '1.1 varnish',
+1466 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1466 silly get     'cache-control': 'max-age=60',
+1466 silly get     etag: '"F2MBNKV8QACAF4X2DU6NVNKR8"',
+1466 silly get     age: '0',
+1466 silly get     'x-served-by': 'cache-ord1724-ORD',
+1466 silly get     'x-cache': 'HIT',
+1466 silly get     'x-cache-hits': '1',
+1466 silly get     'x-timer': 'S1417145912.787334,VS0,VE307',
+1466 silly get     vary: 'Accept',
+1466 silly get     'content-length': '0',
+1466 silly get     'keep-alive': 'timeout=10, max=48',
+1466 silly get     connection: 'Keep-Alive' } ]
+1467 verbose etag https://registry.npmjs.org/passport-local from cache
+1468 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\mongoose\3.8.19\package\package.json written
+1469 silly addNameRange number 2 { name: 'passport-local',
+1469 silly addNameRange   range: '>=0.1.6 <0.2.0',
+1469 silly addNameRange   hasData: true }
+1470 silly addNameRange versions [ 'passport-local',
+1470 silly addNameRange   [ '0.1.0',
+1470 silly addNameRange     '0.1.1',
+1470 silly addNameRange     '0.1.2',
+1470 silly addNameRange     '0.1.3',
+1470 silly addNameRange     '0.1.4',
+1470 silly addNameRange     '0.1.5',
+1470 silly addNameRange     '0.1.6',
+1470 silly addNameRange     '1.0.0' ] ]
+1471 verbose addNamed passport-local@0.1.6
+1472 silly addNamed semver.valid 0.1.6
+1473 silly addNamed semver.validRange 0.1.6
+1474 silly cache afterAdd passport-local@0.1.6
+1475 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-local\0.1.6\package\package.json not in flight; writing
+1476 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-local\0.1.6\package\package.json written
+1477 http 304 https://registry.npmjs.org/socket.io
 1478 silly get cb [ 304,
-1478 silly get   { date: 'Fri, 28 Nov 2014 03:36:49 GMT',
+1478 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
 1478 silly get     server: 'Apache',
 1478 silly get     via: '1.1 varnish',
-1478 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
+1478 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
 1478 silly get     'cache-control': 'max-age=60',
-1478 silly get     etag: '"CYXNQIDTU78NO281KPB9TQK9T"',
+1478 silly get     etag: '"204LXKH3R5W7GUUILRZ92T0AH"',
 1478 silly get     age: '0',
-1478 silly get     'x-served-by': 'cache-ord1735-ORD',
-1478 silly get     'x-cache': 'MISS',
-1478 silly get     'x-cache-hits': '0',
-1478 silly get     'x-timer': 'S1417145809.988359,VS0,VE69',
+1478 silly get     'x-served-by': 'cache-ord1724-ORD',
+1478 silly get     'x-cache': 'HIT',
+1478 silly get     'x-cache-hits': '1',
+1478 silly get     'x-timer': 'S1417145913.196828,VS0,VE28',
 1478 silly get     vary: 'Accept',
 1478 silly get     'content-length': '0',
 1478 silly get     'keep-alive': 'timeout=10, max=47',
 1478 silly get     connection: 'Keep-Alive' } ]
-1479 verbose etag https://registry.npmjs.org/composable-middleware from cache
-1480 http 304 https://registry.npmjs.org/connect-mongo
+1479 verbose etag https://registry.npmjs.org/socket.io from cache
+1480 http 304 https://registry.npmjs.org/passport-twitter
 1481 silly get cb [ 304,
-1481 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
+1481 silly get   { date: 'Fri, 28 Nov 2014 03:38:32 GMT',
 1481 silly get     server: 'Apache',
 1481 silly get     via: '1.1 varnish',
-1481 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
+1481 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
 1481 silly get     'cache-control': 'max-age=60',
-1481 silly get     etag: '"DKA43DB29BV1DQ4Q4JFSCRTPE"',
+1481 silly get     etag: '"D6OXY6VP3GYN5QYO3PS9VCMKV"',
 1481 silly get     age: '0',
-1481 silly get     'x-served-by': 'cache-ord1721-ORD',
-1481 silly get     'x-cache': 'MISS',
-1481 silly get     'x-cache-hits': '0',
-1481 silly get     'x-timer': 'S1417145810.001992,VS0,VE69',
+1481 silly get     'x-served-by': 'cache-ord1728-ORD',
+1481 silly get     'x-cache': 'HIT',
+1481 silly get     'x-cache-hits': '1',
+1481 silly get     'x-timer': 'S1417145912.948143,VS0,VE307',
 1481 silly get     vary: 'Accept',
 1481 silly get     'content-length': '0',
 1481 silly get     'keep-alive': 'timeout=10, max=46',
 1481 silly get     connection: 'Keep-Alive' } ]
-1482 verbose etag https://registry.npmjs.org/connect-mongo from cache
-1483 silly cache afterAdd passport-facebook@1.0.3
-1484 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-facebook\1.0.3\package\package.json not in flight; writing
-1485 silly cache afterAdd jsonwebtoken@0.3.0
-1486 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\jsonwebtoken\0.3.0\package\package.json not in flight; writing
-1487 silly cache afterAdd passport-local@0.1.6
-1488 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-local\0.1.6\package\package.json not in flight; writing
-1489 silly cache afterAdd passport-twitter@1.0.2
-1490 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-twitter\1.0.2\package\package.json not in flight; writing
-1491 silly cache afterAdd passport-google-oauth@0.1.5
-1492 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-google-oauth\0.1.5\package\package.json not in flight; writing
-1493 http 304 https://registry.npmjs.org/grunt
-1494 silly get cb [ 304,
-1494 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1494 silly get     server: 'Apache',
-1494 silly get     via: '1.1 varnish',
-1494 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1494 silly get     'cache-control': 'max-age=60',
-1494 silly get     etag: '"41VXJMQ5VEKVFK2TLA2SRBJU3"',
-1494 silly get     age: '0',
-1494 silly get     'x-served-by': 'cache-ord1735-ORD',
-1494 silly get     'x-cache': 'HIT',
-1494 silly get     'x-cache-hits': '1',
-1494 silly get     'x-timer': 'S1417145810.118297,VS0,VE32',
-1494 silly get     vary: 'Accept',
-1494 silly get     'content-length': '0',
-1494 silly get     'keep-alive': 'timeout=10, max=46',
-1494 silly get     connection: 'Keep-Alive' } ]
-1495 verbose etag https://registry.npmjs.org/grunt from cache
-1496 http 304 https://registry.npmjs.org/grunt-autoprefixer
-1497 silly get cb [ 304,
-1497 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1497 silly get     server: 'Apache',
-1497 silly get     via: '1.1 varnish',
-1497 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1497 silly get     'cache-control': 'max-age=60',
-1497 silly get     etag: '"BTTTAW2TNOKO0PXMT1TPVP8X2"',
-1497 silly get     age: '0',
-1497 silly get     'x-served-by': 'cache-ord1734-ORD',
-1497 silly get     'x-cache': 'HIT',
-1497 silly get     'x-cache-hits': '1',
-1497 silly get     'x-timer': 'S1417145810.128708,VS0,VE30',
-1497 silly get     vary: 'Accept',
-1497 silly get     'content-length': '0',
-1497 silly get     'keep-alive': 'timeout=10, max=44',
-1497 silly get     connection: 'Keep-Alive' } ]
-1498 verbose etag https://registry.npmjs.org/grunt-autoprefixer from cache
-1499 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\mongoose\3.8.19\package\package.json written
-1500 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-facebook\1.0.3\package\package.json written
-1501 verbose git fetch -a origin (https://github.com/DaftMonk/grunt-build-control)
-1502 silly verifyOwnership skipping for windows
-1503 silly addNameRange number 2 { name: 'socketio-jwt', range: '>=2.0.2 <3.0.0', hasData: true }
-1504 silly addNameRange versions [ 'socketio-jwt',
-1504 silly addNameRange   [ '1.0.0',
-1504 silly addNameRange     '2.0.0',
-1504 silly addNameRange     '2.0.1',
-1504 silly addNameRange     '2.0.2',
-1504 silly addNameRange     '2.1.0',
-1504 silly addNameRange     '2.3.0',
-1504 silly addNameRange     '2.3.1',
-1504 silly addNameRange     '2.3.2',
-1504 silly addNameRange     '2.3.4',
-1504 silly addNameRange     '2.3.5' ] ]
-1505 verbose addNamed socketio-jwt@2.3.5
-1506 silly addNamed semver.valid 2.3.5
-1507 silly addNamed semver.validRange 2.3.5
-1508 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\jsonwebtoken\0.3.0\package\package.json written
-1509 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-local\0.1.6\package\package.json written
-1510 silly addNameRange number 2 { name: 'socket.io', range: '>=1.0.6 <2.0.0', hasData: true }
-1511 silly addNameRange versions [ 'socket.io',
-1511 silly addNameRange   [ '0.3.8',
-1511 silly addNameRange     '0.4.0',
-1511 silly addNameRange     '0.4.1',
-1511 silly addNameRange     '0.5.1',
-1511 silly addNameRange     '0.5.3',
-1511 silly addNameRange     '0.6.0',
-1511 silly addNameRange     '0.6.1',
-1511 silly addNameRange     '0.6.3',
-1511 silly addNameRange     '0.6.4',
-1511 silly addNameRange     '0.6.5',
-1511 silly addNameRange     '0.6.6',
-1511 silly addNameRange     '0.6.7',
-1511 silly addNameRange     '0.6.8',
-1511 silly addNameRange     '0.6.9',
-1511 silly addNameRange     '0.6.10',
-1511 silly addNameRange     '0.6.11',
-1511 silly addNameRange     '0.6.12',
-1511 silly addNameRange     '0.6.14',
-1511 silly addNameRange     '0.6.15',
-1511 silly addNameRange     '0.6.16',
-1511 silly addNameRange     '0.6.17',
-1511 silly addNameRange     '0.6.18',
-1511 silly addNameRange     '0.7.0',
-1511 silly addNameRange     '0.7.1',
-1511 silly addNameRange     '0.7.2',
-1511 silly addNameRange     '0.7.3',
-1511 silly addNameRange     '0.7.4',
-1511 silly addNameRange     '0.7.5',
-1511 silly addNameRange     '0.7.6',
-1511 silly addNameRange     '0.7.7',
-1511 silly addNameRange     '0.7.8',
-1511 silly addNameRange     '0.7.9',
-1511 silly addNameRange     '0.7.10',
-1511 silly addNameRange     '0.7.11',
-1511 silly addNameRange     '0.8.0',
-1511 silly addNameRange     '0.8.1',
-1511 silly addNameRange     '0.8.2',
-1511 silly addNameRange     '0.8.3',
-1511 silly addNameRange     '0.8.4',
-1511 silly addNameRange     '0.8.5',
-1511 silly addNameRange     '0.8.6',
-1511 silly addNameRange     '0.8.7',
-1511 silly addNameRange     '0.9.0',
-1511 silly addNameRange     '0.9.1',
-1511 silly addNameRange     '0.9.1-1',
-1511 silly addNameRange     '0.9.2',
-1511 silly addNameRange     '0.9.3',
-1511 silly addNameRange     '0.9.4',
-1511 silly addNameRange     '0.9.5',
-1511 silly addNameRange     '0.9.6',
-1511 silly addNameRange     '0.9.7',
-1511 silly addNameRange     '0.9.8',
-1511 silly addNameRange     '0.9.9',
-1511 silly addNameRange     '0.9.10',
-1511 silly addNameRange     '0.9.11',
-1511 silly addNameRange     '0.9.12',
-1511 silly addNameRange     '0.9.13',
-1511 silly addNameRange     '0.9.14',
-1511 silly addNameRange     '0.9.15',
-1511 silly addNameRange     '0.9.16',
-1511 silly addNameRange     '1.0.0-pre',
-1511 silly addNameRange     '1.0.0-pre2',
-1511 silly addNameRange     '1.0.0-pre3',
-1511 silly addNameRange     '1.0.0-pre4',
-1511 silly addNameRange     '1.0.0-pre5',
-1511 silly addNameRange     '0.9.17',
-1511 silly addNameRange     '1.0.0',
-1511 silly addNameRange     '1.0.1',
-1511 silly addNameRange     '1.0.2',
-1511 silly addNameRange     '1.0.3',
-1511 silly addNameRange     '1.0.4',
-1511 silly addNameRange     '1.0.5',
-1511 silly addNameRange     '1.0.6',
-1511 silly addNameRange     '1.1.0',
-1511 silly addNameRange     '1.2.0',
-1511 silly addNameRange     '1.2.1' ] ]
-1512 verbose addNamed socket.io@1.2.1
-1513 silly addNamed semver.valid 1.2.1
-1514 silly addNamed semver.validRange 1.2.1
-1515 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-twitter\1.0.2\package\package.json written
-1516 silly addNameRange number 2 { name: 'connect-mongo', range: '>=0.4.1 <0.5.0', hasData: true }
-1517 silly addNameRange versions [ 'connect-mongo',
-1517 silly addNameRange   [ '0.1.0',
-1517 silly addNameRange     '0.1.1',
-1517 silly addNameRange     '0.1.2',
-1517 silly addNameRange     '0.1.3',
-1517 silly addNameRange     '0.1.4',
-1517 silly addNameRange     '0.1.5',
-1517 silly addNameRange     '0.1.6',
-1517 silly addNameRange     '0.1.7',
-1517 silly addNameRange     '0.1.8',
-1517 silly addNameRange     '0.1.9',
-1517 silly addNameRange     '0.2.0',
-1517 silly addNameRange     '0.3.0',
-1517 silly addNameRange     '0.3.1',
-1517 silly addNameRange     '0.3.2',
-1517 silly addNameRange     '0.3.3',
-1517 silly addNameRange     '0.4.0',
-1517 silly addNameRange     '0.4.1' ] ]
-1518 verbose addNamed connect-mongo@0.4.1
-1519 silly addNamed semver.valid 0.4.1
-1520 silly addNamed semver.validRange 0.4.1
-1521 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-google-oauth\0.1.5\package\package.json written
-1522 silly addNameRange number 2 { name: 'composable-middleware',
-1522 silly addNameRange   range: '>=0.3.0 <0.4.0',
-1522 silly addNameRange   hasData: true }
-1523 silly addNameRange versions [ 'composable-middleware', [ '0.1.0', '0.2.0', '0.3.0' ] ]
-1524 verbose addNamed composable-middleware@0.3.0
-1525 silly addNamed semver.valid 0.3.0
-1526 silly addNamed semver.validRange 0.3.0
-1527 silly cache afterAdd socketio-jwt@2.3.5
-1528 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socketio-jwt\2.3.5\package\package.json not in flight; writing
-1529 silly addNameRange number 2 { name: 'grunt', range: '>=0.4.4 <0.5.0', hasData: true }
-1530 silly addNameRange versions [ 'grunt',
-1530 silly addNameRange   [ '0.1.0',
-1530 silly addNameRange     '0.1.1',
-1530 silly addNameRange     '0.1.2',
-1530 silly addNameRange     '0.2.0',
-1530 silly addNameRange     '0.2.1',
-1530 silly addNameRange     '0.2.2',
-1530 silly addNameRange     '0.2.3',
-1530 silly addNameRange     '0.2.4',
-1530 silly addNameRange     '0.2.5',
-1530 silly addNameRange     '0.2.6',
-1530 silly addNameRange     '0.2.7',
-1530 silly addNameRange     '0.2.8',
-1530 silly addNameRange     '0.2.9',
-1530 silly addNameRange     '0.2.10',
-1530 silly addNameRange     '0.2.11',
-1530 silly addNameRange     '0.2.12',
-1530 silly addNameRange     '0.2.13',
-1530 silly addNameRange     '0.2.14',
-1530 silly addNameRange     '0.2.15',
-1530 silly addNameRange     '0.3.0',
-1530 silly addNameRange     '0.3.1',
-1530 silly addNameRange     '0.3.2',
-1530 silly addNameRange     '0.3.3',
-1530 silly addNameRange     '0.3.4',
-1530 silly addNameRange     '0.3.5',
-1530 silly addNameRange     '0.3.6',
-1530 silly addNameRange     '0.3.7',
-1530 silly addNameRange     '0.3.8',
-1530 silly addNameRange     '0.3.9',
-1530 silly addNameRange     '0.3.10',
-1530 silly addNameRange     '0.3.11',
-1530 silly addNameRange     '0.3.12',
-1530 silly addNameRange     '0.3.13',
-1530 silly addNameRange     '0.3.14',
-1530 silly addNameRange     '0.3.15',
-1530 silly addNameRange     '0.3.16',
-1530 silly addNameRange     '0.3.17',
-1530 silly addNameRange     '0.4.0',
-1530 silly addNameRange     '0.4.1',
-1530 silly addNameRange     '0.4.2',
-1530 silly addNameRange     '0.4.3',
-1530 silly addNameRange     '0.4.4',
-1530 silly addNameRange     '0.4.5',
-1530 silly addNameRange     '0.3.13-a',
-1530 silly addNameRange     '0.4.0-a',
-1530 silly addNameRange     '0.4.0-rc1',
-1530 silly addNameRange     '0.4.0-rc2',
-1530 silly addNameRange     '0.4.0-rc3',
-1530 silly addNameRange     '0.4.0-rc4',
-1530 silly addNameRange     '0.4.0-rc5',
-1530 silly addNameRange     '0.4.0-rc6',
-1530 silly addNameRange     '0.4.0-rc7',
-1530 silly addNameRange     '0.4.0-rc8' ] ]
-1531 verbose addNamed grunt@0.4.5
-1532 silly addNamed semver.valid 0.4.5
-1533 silly addNamed semver.validRange 0.4.5
-1534 silly cache afterAdd socket.io@1.2.1
-1535 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io\1.2.1\package\package.json not in flight; writing
-1536 silly addNameRange number 2 { name: 'grunt-autoprefixer',
-1536 silly addNameRange   range: '>=0.7.2 <0.8.0',
-1536 silly addNameRange   hasData: true }
-1537 silly addNameRange versions [ 'grunt-autoprefixer',
-1537 silly addNameRange   [ '0.1.0',
-1537 silly addNameRange     '0.1.20130424',
-1537 silly addNameRange     '0.1.20130516',
-1537 silly addNameRange     '0.1.20130615',
-1537 silly addNameRange     '0.2.0',
-1537 silly addNameRange     '0.2.20130718',
-1537 silly addNameRange     '0.2.20130806',
-1537 silly addNameRange     '0.3.0',
-1537 silly addNameRange     '0.3.1',
-1537 silly addNameRange     '0.4.0',
-1537 silly addNameRange     '0.4.1',
-1537 silly addNameRange     '0.4.2',
-1537 silly addNameRange     '0.5.0',
-1537 silly addNameRange     '0.6.0',
-1537 silly addNameRange     '0.6.1',
-1537 silly addNameRange     '0.6.2',
-1537 silly addNameRange     '0.6.3',
-1537 silly addNameRange     '0.6.4',
-1537 silly addNameRange     '0.6.5',
-1537 silly addNameRange     '0.7.0',
-1537 silly addNameRange     '0.7.1',
-1537 silly addNameRange     '0.7.2',
-1537 silly addNameRange     '0.7.3',
-1537 silly addNameRange     '0.7.4',
-1537 silly addNameRange     '0.7.5',
-1537 silly addNameRange     '0.7.6',
-1537 silly addNameRange     '0.8.0',
-1537 silly addNameRange     '0.8.1',
-1537 silly addNameRange     '0.8.2',
-1537 silly addNameRange     '1.0.0',
-1537 silly addNameRange     '1.0.1',
-1537 silly addNameRange     '2.0.0' ] ]
-1538 verbose addNamed grunt-autoprefixer@0.7.6
-1539 silly addNamed semver.valid 0.7.6
-1540 silly addNamed semver.validRange 0.7.6
-1541 silly cache afterAdd connect-mongo@0.4.1
-1542 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\connect-mongo\0.4.1\package\package.json not in flight; writing
-1543 silly cache afterAdd composable-middleware@0.3.0
-1544 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\composable-middleware\0.3.0\package\package.json not in flight; writing
-1545 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socketio-jwt\2.3.5\package\package.json written
-1546 silly cache afterAdd grunt@0.4.5
-1547 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt\0.4.5\package\package.json not in flight; writing
-1548 http 304 https://registry.npmjs.org/socket.io-client
-1549 silly get cb [ 304,
-1549 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1549 silly get     server: 'Apache',
-1549 silly get     via: '1.1 varnish',
-1549 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1549 silly get     'cache-control': 'max-age=60',
-1549 silly get     etag: '"88N07G0UABQYLUGN8U2MX0TZP"',
-1549 silly get     age: '0',
-1549 silly get     'x-served-by': 'cache-ord1724-ORD',
-1549 silly get     'x-cache': 'HIT',
-1549 silly get     'x-cache-hits': '1',
-1549 silly get     'x-timer': 'S1417145810.008791,VS0,VE309',
-1549 silly get     vary: 'Accept',
-1549 silly get     'content-length': '0',
-1549 silly get     'keep-alive': 'timeout=10, max=47',
-1549 silly get     connection: 'Keep-Alive' } ]
-1550 verbose etag https://registry.npmjs.org/socket.io-client from cache
-1551 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io\1.2.1\package\package.json written
-1552 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\connect-mongo\0.4.1\package\package.json written
-1553 http 304 https://registry.npmjs.org/grunt-contrib-concat
+1482 verbose etag https://registry.npmjs.org/passport-twitter from cache
+1483 silly addNameRange number 2 { name: 'socket.io', range: '>=1.0.6 <2.0.0', hasData: true }
+1484 silly addNameRange versions [ 'socket.io',
+1484 silly addNameRange   [ '0.3.8',
+1484 silly addNameRange     '0.4.0',
+1484 silly addNameRange     '0.4.1',
+1484 silly addNameRange     '0.5.1',
+1484 silly addNameRange     '0.5.3',
+1484 silly addNameRange     '0.6.0',
+1484 silly addNameRange     '0.6.1',
+1484 silly addNameRange     '0.6.3',
+1484 silly addNameRange     '0.6.4',
+1484 silly addNameRange     '0.6.5',
+1484 silly addNameRange     '0.6.6',
+1484 silly addNameRange     '0.6.7',
+1484 silly addNameRange     '0.6.8',
+1484 silly addNameRange     '0.6.9',
+1484 silly addNameRange     '0.6.10',
+1484 silly addNameRange     '0.6.11',
+1484 silly addNameRange     '0.6.12',
+1484 silly addNameRange     '0.6.14',
+1484 silly addNameRange     '0.6.15',
+1484 silly addNameRange     '0.6.16',
+1484 silly addNameRange     '0.6.17',
+1484 silly addNameRange     '0.6.18',
+1484 silly addNameRange     '0.7.0',
+1484 silly addNameRange     '0.7.1',
+1484 silly addNameRange     '0.7.2',
+1484 silly addNameRange     '0.7.3',
+1484 silly addNameRange     '0.7.4',
+1484 silly addNameRange     '0.7.5',
+1484 silly addNameRange     '0.7.6',
+1484 silly addNameRange     '0.7.7',
+1484 silly addNameRange     '0.7.8',
+1484 silly addNameRange     '0.7.9',
+1484 silly addNameRange     '0.7.10',
+1484 silly addNameRange     '0.7.11',
+1484 silly addNameRange     '0.8.0',
+1484 silly addNameRange     '0.8.1',
+1484 silly addNameRange     '0.8.2',
+1484 silly addNameRange     '0.8.3',
+1484 silly addNameRange     '0.8.4',
+1484 silly addNameRange     '0.8.5',
+1484 silly addNameRange     '0.8.6',
+1484 silly addNameRange     '0.8.7',
+1484 silly addNameRange     '0.9.0',
+1484 silly addNameRange     '0.9.1',
+1484 silly addNameRange     '0.9.1-1',
+1484 silly addNameRange     '0.9.2',
+1484 silly addNameRange     '0.9.3',
+1484 silly addNameRange     '0.9.4',
+1484 silly addNameRange     '0.9.5',
+1484 silly addNameRange     '0.9.6',
+1484 silly addNameRange     '0.9.7',
+1484 silly addNameRange     '0.9.8',
+1484 silly addNameRange     '0.9.9',
+1484 silly addNameRange     '0.9.10',
+1484 silly addNameRange     '0.9.11',
+1484 silly addNameRange     '0.9.12',
+1484 silly addNameRange     '0.9.13',
+1484 silly addNameRange     '0.9.14',
+1484 silly addNameRange     '0.9.15',
+1484 silly addNameRange     '0.9.16',
+1484 silly addNameRange     '1.0.0-pre',
+1484 silly addNameRange     '1.0.0-pre2',
+1484 silly addNameRange     '1.0.0-pre3',
+1484 silly addNameRange     '1.0.0-pre4',
+1484 silly addNameRange     '1.0.0-pre5',
+1484 silly addNameRange     '0.9.17',
+1484 silly addNameRange     '1.0.0',
+1484 silly addNameRange     '1.0.1',
+1484 silly addNameRange     '1.0.2',
+1484 silly addNameRange     '1.0.3',
+1484 silly addNameRange     '1.0.4',
+1484 silly addNameRange     '1.0.5',
+1484 silly addNameRange     '1.0.6',
+1484 silly addNameRange     '1.1.0',
+1484 silly addNameRange     '1.2.0',
+1484 silly addNameRange     '1.2.1' ] ]
+1485 verbose addNamed socket.io@1.2.1
+1486 silly addNamed semver.valid 1.2.1
+1487 silly addNamed semver.validRange 1.2.1
+1488 silly cache afterAdd socket.io@1.2.1
+1489 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io\1.2.1\package\package.json not in flight; writing
+1490 silly addNameTag next cb for passport-twitter with tag latest
+1491 verbose addNamed passport-twitter@1.0.2
+1492 silly addNamed semver.valid 1.0.2
+1493 silly addNamed semver.validRange 1.0.2
+1494 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io\1.2.1\package\package.json written
+1495 silly cache afterAdd passport-twitter@1.0.2
+1496 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-twitter\1.0.2\package\package.json not in flight; writing
+1497 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\passport-twitter\1.0.2\package\package.json written
+1498 http 304 https://registry.npmjs.org/composable-middleware
+1499 silly get cb [ 304,
+1499 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1499 silly get     server: 'Apache',
+1499 silly get     via: '1.1 varnish',
+1499 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1499 silly get     'cache-control': 'max-age=60',
+1499 silly get     etag: '"CYXNQIDTU78NO281KPB9TQK9T"',
+1499 silly get     age: '0',
+1499 silly get     'x-served-by': 'cache-ord1735-ORD',
+1499 silly get     'x-cache': 'MISS',
+1499 silly get     'x-cache-hits': '0',
+1499 silly get     'x-timer': 'S1417145913.007322,VS0,VE308',
+1499 silly get     vary: 'Accept',
+1499 silly get     'content-length': '0',
+1499 silly get     'keep-alive': 'timeout=10, max=47',
+1499 silly get     connection: 'Keep-Alive' } ]
+1500 verbose etag https://registry.npmjs.org/composable-middleware from cache
+1501 http 304 https://registry.npmjs.org/connect-mongo
+1502 silly get cb [ 304,
+1502 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1502 silly get     server: 'Apache',
+1502 silly get     via: '1.1 varnish',
+1502 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1502 silly get     'cache-control': 'max-age=60',
+1502 silly get     etag: '"DKA43DB29BV1DQ4Q4JFSCRTPE"',
+1502 silly get     age: '0',
+1502 silly get     'x-served-by': 'cache-ord1735-ORD',
+1502 silly get     'x-cache': 'MISS',
+1502 silly get     'x-cache-hits': '0',
+1502 silly get     'x-timer': 'S1417145913.027178,VS0,VE300',
+1502 silly get     vary: 'Accept',
+1502 silly get     'content-length': '0',
+1502 silly get     'keep-alive': 'timeout=10, max=47',
+1502 silly get     connection: 'Keep-Alive' } ]
+1503 verbose etag https://registry.npmjs.org/connect-mongo from cache
+1504 silly addNameRange number 2 { name: 'composable-middleware',
+1504 silly addNameRange   range: '>=0.3.0 <0.4.0',
+1504 silly addNameRange   hasData: true }
+1505 silly addNameRange versions [ 'composable-middleware', [ '0.1.0', '0.2.0', '0.3.0' ] ]
+1506 verbose addNamed composable-middleware@0.3.0
+1507 silly addNamed semver.valid 0.3.0
+1508 silly addNamed semver.validRange 0.3.0
+1509 silly cache afterAdd composable-middleware@0.3.0
+1510 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\composable-middleware\0.3.0\package\package.json not in flight; writing
+1511 silly addNameRange number 2 { name: 'connect-mongo', range: '>=0.4.1 <0.5.0', hasData: true }
+1512 silly addNameRange versions [ 'connect-mongo',
+1512 silly addNameRange   [ '0.1.0',
+1512 silly addNameRange     '0.1.1',
+1512 silly addNameRange     '0.1.2',
+1512 silly addNameRange     '0.1.3',
+1512 silly addNameRange     '0.1.4',
+1512 silly addNameRange     '0.1.5',
+1512 silly addNameRange     '0.1.6',
+1512 silly addNameRange     '0.1.7',
+1512 silly addNameRange     '0.1.8',
+1512 silly addNameRange     '0.1.9',
+1512 silly addNameRange     '0.2.0',
+1512 silly addNameRange     '0.3.0',
+1512 silly addNameRange     '0.3.1',
+1512 silly addNameRange     '0.3.2',
+1512 silly addNameRange     '0.3.3',
+1512 silly addNameRange     '0.4.0',
+1512 silly addNameRange     '0.4.1' ] ]
+1513 verbose addNamed connect-mongo@0.4.1
+1514 silly addNamed semver.valid 0.4.1
+1515 silly addNamed semver.validRange 0.4.1
+1516 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\composable-middleware\0.3.0\package\package.json written
+1517 silly cache afterAdd connect-mongo@0.4.1
+1518 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\connect-mongo\0.4.1\package\package.json not in flight; writing
+1519 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\connect-mongo\0.4.1\package\package.json written
+1520 http 304 https://registry.npmjs.org/grunt
+1521 silly get cb [ 304,
+1521 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1521 silly get     server: 'Apache',
+1521 silly get     via: '1.1 varnish',
+1521 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1521 silly get     'cache-control': 'max-age=60',
+1521 silly get     etag: '"41VXJMQ5VEKVFK2TLA2SRBJU3"',
+1521 silly get     age: '15',
+1521 silly get     'x-served-by': 'cache-ord1735-ORD',
+1521 silly get     'x-cache': 'HIT',
+1521 silly get     'x-cache-hits': '1',
+1521 silly get     'x-timer': 'S1417145913.457870,VS0,VE0',
+1521 silly get     vary: 'Accept',
+1521 silly get     'content-length': '0',
+1521 silly get     'keep-alive': 'timeout=10, max=46',
+1521 silly get     connection: 'Keep-Alive' } ]
+1522 verbose etag https://registry.npmjs.org/grunt from cache
+1523 http 304 https://registry.npmjs.org/socketio-jwt
+1524 silly get cb [ 304,
+1524 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1524 silly get     server: 'Apache',
+1524 silly get     via: '1.1 varnish',
+1524 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1524 silly get     'cache-control': 'max-age=60',
+1524 silly get     etag: '"585PMITW3T5Z1X7VTUVI9YINE"',
+1524 silly get     age: '0',
+1524 silly get     'x-served-by': 'cache-ord1727-ORD',
+1524 silly get     'x-cache': 'MISS',
+1524 silly get     'x-cache-hits': '0',
+1524 silly get     'x-timer': 'S1417145913.158078,VS0,VE305',
+1524 silly get     vary: 'Accept',
+1524 silly get     'content-length': '0',
+1524 silly get     'keep-alive': 'timeout=10, max=46',
+1524 silly get     connection: 'Keep-Alive' } ]
+1525 verbose etag https://registry.npmjs.org/socketio-jwt from cache
+1526 http 304 https://registry.npmjs.org/grunt-autoprefixer
+1527 silly get cb [ 304,
+1527 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1527 silly get     server: 'Apache',
+1527 silly get     via: '1.1 varnish',
+1527 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1527 silly get     'cache-control': 'max-age=60',
+1527 silly get     etag: '"BTTTAW2TNOKO0PXMT1TPVP8X2"',
+1527 silly get     age: '0',
+1527 silly get     'x-served-by': 'cache-ord1728-ORD',
+1527 silly get     'x-cache': 'HIT',
+1527 silly get     'x-cache-hits': '1',
+1527 silly get     'x-timer': 'S1417145913.349344,VS0,VE131',
+1527 silly get     vary: 'Accept',
+1527 silly get     'content-length': '0',
+1527 silly get     'keep-alive': 'timeout=10, max=45',
+1527 silly get     connection: 'Keep-Alive' } ]
+1528 verbose etag https://registry.npmjs.org/grunt-autoprefixer from cache
+1529 http 304 https://registry.npmjs.org/grunt-wiredep
+1530 silly get cb [ 304,
+1530 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1530 silly get     server: 'Apache',
+1530 silly get     via: '1.1 varnish',
+1530 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1530 silly get     'cache-control': 'max-age=60',
+1530 silly get     etag: '"2KHF11WWDXGLE8B62RQ2RHXUA"',
+1530 silly get     age: '0',
+1530 silly get     'x-served-by': 'cache-ord1735-ORD',
+1530 silly get     'x-cache': 'MISS',
+1530 silly get     'x-cache-hits': '0',
+1530 silly get     'x-timer': 'S1417145913.457695,VS0,VE71',
+1530 silly get     vary: 'Accept',
+1530 silly get     'content-length': '0',
+1530 silly get     'keep-alive': 'timeout=10, max=46',
+1530 silly get     connection: 'Keep-Alive' } ]
+1531 verbose etag https://registry.npmjs.org/grunt-wiredep from cache
+1532 silly addNameRange number 2 { name: 'socketio-jwt', range: '>=2.0.2 <3.0.0', hasData: true }
+1533 silly addNameRange versions [ 'socketio-jwt',
+1533 silly addNameRange   [ '1.0.0',
+1533 silly addNameRange     '2.0.0',
+1533 silly addNameRange     '2.0.1',
+1533 silly addNameRange     '2.0.2',
+1533 silly addNameRange     '2.1.0',
+1533 silly addNameRange     '2.3.0',
+1533 silly addNameRange     '2.3.1',
+1533 silly addNameRange     '2.3.2',
+1533 silly addNameRange     '2.3.4',
+1533 silly addNameRange     '2.3.5' ] ]
+1534 verbose addNamed socketio-jwt@2.3.5
+1535 silly addNamed semver.valid 2.3.5
+1536 silly addNamed semver.validRange 2.3.5
+1537 silly addNameRange number 2 { name: 'grunt-autoprefixer',
+1537 silly addNameRange   range: '>=0.7.2 <0.8.0',
+1537 silly addNameRange   hasData: true }
+1538 silly addNameRange versions [ 'grunt-autoprefixer',
+1538 silly addNameRange   [ '0.1.0',
+1538 silly addNameRange     '0.1.20130424',
+1538 silly addNameRange     '0.1.20130516',
+1538 silly addNameRange     '0.1.20130615',
+1538 silly addNameRange     '0.2.0',
+1538 silly addNameRange     '0.2.20130718',
+1538 silly addNameRange     '0.2.20130806',
+1538 silly addNameRange     '0.3.0',
+1538 silly addNameRange     '0.3.1',
+1538 silly addNameRange     '0.4.0',
+1538 silly addNameRange     '0.4.1',
+1538 silly addNameRange     '0.4.2',
+1538 silly addNameRange     '0.5.0',
+1538 silly addNameRange     '0.6.0',
+1538 silly addNameRange     '0.6.1',
+1538 silly addNameRange     '0.6.2',
+1538 silly addNameRange     '0.6.3',
+1538 silly addNameRange     '0.6.4',
+1538 silly addNameRange     '0.6.5',
+1538 silly addNameRange     '0.7.0',
+1538 silly addNameRange     '0.7.1',
+1538 silly addNameRange     '0.7.2',
+1538 silly addNameRange     '0.7.3',
+1538 silly addNameRange     '0.7.4',
+1538 silly addNameRange     '0.7.5',
+1538 silly addNameRange     '0.7.6',
+1538 silly addNameRange     '0.8.0',
+1538 silly addNameRange     '0.8.1',
+1538 silly addNameRange     '0.8.2',
+1538 silly addNameRange     '1.0.0',
+1538 silly addNameRange     '1.0.1',
+1538 silly addNameRange     '2.0.0' ] ]
+1539 verbose addNamed grunt-autoprefixer@0.7.6
+1540 silly addNamed semver.valid 0.7.6
+1541 silly addNamed semver.validRange 0.7.6
+1542 silly addNameRange number 2 { name: 'grunt', range: '>=0.4.4 <0.5.0', hasData: true }
+1543 silly addNameRange versions [ 'grunt',
+1543 silly addNameRange   [ '0.1.0',
+1543 silly addNameRange     '0.1.1',
+1543 silly addNameRange     '0.1.2',
+1543 silly addNameRange     '0.2.0',
+1543 silly addNameRange     '0.2.1',
+1543 silly addNameRange     '0.2.2',
+1543 silly addNameRange     '0.2.3',
+1543 silly addNameRange     '0.2.4',
+1543 silly addNameRange     '0.2.5',
+1543 silly addNameRange     '0.2.6',
+1543 silly addNameRange     '0.2.7',
+1543 silly addNameRange     '0.2.8',
+1543 silly addNameRange     '0.2.9',
+1543 silly addNameRange     '0.2.10',
+1543 silly addNameRange     '0.2.11',
+1543 silly addNameRange     '0.2.12',
+1543 silly addNameRange     '0.2.13',
+1543 silly addNameRange     '0.2.14',
+1543 silly addNameRange     '0.2.15',
+1543 silly addNameRange     '0.3.0',
+1543 silly addNameRange     '0.3.1',
+1543 silly addNameRange     '0.3.2',
+1543 silly addNameRange     '0.3.3',
+1543 silly addNameRange     '0.3.4',
+1543 silly addNameRange     '0.3.5',
+1543 silly addNameRange     '0.3.6',
+1543 silly addNameRange     '0.3.7',
+1543 silly addNameRange     '0.3.8',
+1543 silly addNameRange     '0.3.9',
+1543 silly addNameRange     '0.3.10',
+1543 silly addNameRange     '0.3.11',
+1543 silly addNameRange     '0.3.12',
+1543 silly addNameRange     '0.3.13',
+1543 silly addNameRange     '0.3.14',
+1543 silly addNameRange     '0.3.15',
+1543 silly addNameRange     '0.3.16',
+1543 silly addNameRange     '0.3.17',
+1543 silly addNameRange     '0.4.0',
+1543 silly addNameRange     '0.4.1',
+1543 silly addNameRange     '0.4.2',
+1543 silly addNameRange     '0.4.3',
+1543 silly addNameRange     '0.4.4',
+1543 silly addNameRange     '0.4.5',
+1543 silly addNameRange     '0.3.13-a',
+1543 silly addNameRange     '0.4.0-a',
+1543 silly addNameRange     '0.4.0-rc1',
+1543 silly addNameRange     '0.4.0-rc2',
+1543 silly addNameRange     '0.4.0-rc3',
+1543 silly addNameRange     '0.4.0-rc4',
+1543 silly addNameRange     '0.4.0-rc5',
+1543 silly addNameRange     '0.4.0-rc6',
+1543 silly addNameRange     '0.4.0-rc7',
+1543 silly addNameRange     '0.4.0-rc8' ] ]
+1544 verbose addNamed grunt@0.4.5
+1545 silly addNamed semver.valid 0.4.5
+1546 silly addNamed semver.validRange 0.4.5
+1547 silly cache afterAdd socketio-jwt@2.3.5
+1548 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socketio-jwt\2.3.5\package\package.json not in flight; writing
+1549 silly cache afterAdd grunt-autoprefixer@0.7.6
+1550 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-autoprefixer\0.7.6\package\package.json not in flight; writing
+1551 silly cache afterAdd grunt@0.4.5
+1552 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt\0.4.5\package\package.json not in flight; writing
+1553 http 304 https://registry.npmjs.org/grunt-contrib-clean
 1554 silly get cb [ 304,
-1554 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
+1554 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
 1554 silly get     server: 'Apache',
 1554 silly get     via: '1.1 varnish',
-1554 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
+1554 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
 1554 silly get     'cache-control': 'max-age=60',
-1554 silly get     etag: '"CTAFCVJJFRM66076G9UL8E2W4"',
+1554 silly get     etag: '"9452X54ODC0R4AWM28RMM7IX0"',
 1554 silly get     age: '0',
-1554 silly get     'x-served-by': 'cache-ord1734-ORD',
+1554 silly get     'x-served-by': 'cache-ord1727-ORD',
 1554 silly get     'x-cache': 'HIT',
 1554 silly get     'x-cache-hits': '1',
-1554 silly get     'x-timer': 'S1417145810.257824,VS0,VE70',
+1554 silly get     'x-timer': 'S1417145913.557147,VS0,VE28',
 1554 silly get     vary: 'Accept',
 1554 silly get     'content-length': '0',
-1554 silly get     'keep-alive': 'timeout=10, max=43',
+1554 silly get     'keep-alive': 'timeout=10, max=45',
 1554 silly get     connection: 'Keep-Alive' } ]
-1555 verbose etag https://registry.npmjs.org/grunt-contrib-concat from cache
-1556 silly cache afterAdd grunt-autoprefixer@0.7.6
-1557 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-autoprefixer\0.7.6\package\package.json not in flight; writing
-1558 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\composable-middleware\0.3.0\package\package.json written
-1559 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt\0.4.5\package\package.json written
-1560 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-autoprefixer\0.7.6\package\package.json written
-1561 silly addNameRange number 2 { name: 'grunt-contrib-concat',
-1561 silly addNameRange   range: '>=0.4.0 <0.5.0',
-1561 silly addNameRange   hasData: true }
-1562 silly addNameRange versions [ 'grunt-contrib-concat',
-1562 silly addNameRange   [ '0.1.0',
-1562 silly addNameRange     '0.1.1',
-1562 silly addNameRange     '0.1.2',
-1562 silly addNameRange     '0.1.3',
-1562 silly addNameRange     '0.2.0',
-1562 silly addNameRange     '0.3.0',
-1562 silly addNameRange     '0.4.0',
-1562 silly addNameRange     '0.5.0',
-1562 silly addNameRange     '0.1.2-rc5',
-1562 silly addNameRange     '0.1.2-rc6' ] ]
-1563 verbose addNamed grunt-contrib-concat@0.4.0
-1564 silly addNamed semver.valid 0.4.0
-1565 silly addNamed semver.validRange 0.4.0
-1566 silly addNameRange number 2 { name: 'socket.io-client',
-1566 silly addNameRange   range: '>=1.0.6 <2.0.0',
-1566 silly addNameRange   hasData: true }
-1567 silly addNameRange versions [ 'socket.io-client',
-1567 silly addNameRange   [ '0.7.0',
-1567 silly addNameRange     '0.7.1',
-1567 silly addNameRange     '0.7.2',
-1567 silly addNameRange     '0.7.3',
-1567 silly addNameRange     '0.7.4',
-1567 silly addNameRange     '0.7.5',
-1567 silly addNameRange     '0.7.9',
-1567 silly addNameRange     '0.7.10',
-1567 silly addNameRange     '0.7.11',
-1567 silly addNameRange     '0.8.0',
-1567 silly addNameRange     '0.8.1',
-1567 silly addNameRange     '0.8.2',
-1567 silly addNameRange     '0.8.3',
-1567 silly addNameRange     '0.8.4',
-1567 silly addNameRange     '0.8.5',
-1567 silly addNameRange     '0.8.6',
-1567 silly addNameRange     '0.8.7',
-1567 silly addNameRange     '0.9.0',
-1567 silly addNameRange     '0.9.1',
-1567 silly addNameRange     '0.9.1-1',
-1567 silly addNameRange     '0.9.2',
-1567 silly addNameRange     '0.9.3',
-1567 silly addNameRange     '0.9.4',
-1567 silly addNameRange     '0.9.5',
-1567 silly addNameRange     '0.9.6',
-1567 silly addNameRange     '0.9.7',
-1567 silly addNameRange     '0.9.8',
-1567 silly addNameRange     '0.9.9',
-1567 silly addNameRange     '0.9.10',
-1567 silly addNameRange     '0.9.11',
-1567 silly addNameRange     '0.9.15',
-1567 silly addNameRange     '0.9.16',
-1567 silly addNameRange     '1.0.0-pre',
-1567 silly addNameRange     '1.0.0-pre2',
-1567 silly addNameRange     '1.0.0-pre3',
-1567 silly addNameRange     '1.0.0-pre4',
-1567 silly addNameRange     '1.0.0-pre5',
-1567 silly addNameRange     '0.9.17',
-1567 silly addNameRange     '1.0.1',
-1567 silly addNameRange     '1.0.2',
-1567 silly addNameRange     '1.0.3',
-1567 silly addNameRange     '1.0.4',
-1567 silly addNameRange     '1.0.5',
-1567 silly addNameRange     '1.0.6',
-1567 silly addNameRange     '1.1.0',
-1567 silly addNameRange     '1.2.0',
-1567 silly addNameRange     '1.2.1' ] ]
-1568 verbose addNamed socket.io-client@1.2.1
-1569 silly addNamed semver.valid 1.2.1
-1570 silly addNamed semver.validRange 1.2.1
-1571 silly cache afterAdd grunt-contrib-concat@0.4.0
-1572 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-concat\0.4.0\package\package.json not in flight; writing
-1573 silly cache afterAdd socket.io-client@1.2.1
-1574 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io-client\1.2.1\package\package.json not in flight; writing
-1575 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-concat\0.4.0\package\package.json written
-1576 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io-client\1.2.1\package\package.json written
-1577 info git [ 'rev-list', '-n1', undefined ]
-1578 http 304 https://registry.npmjs.org/grunt-contrib-copy
-1579 silly get cb [ 304,
-1579 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1579 silly get     server: 'Apache',
-1579 silly get     via: '1.1 varnish',
-1579 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1579 silly get     'cache-control': 'max-age=60',
-1579 silly get     etag: '"E2ZA3AF9KEV04V24IDWS2F6YH"',
-1579 silly get     age: '0',
-1579 silly get     'x-served-by': 'cache-ord1724-ORD',
-1579 silly get     'x-cache': 'HIT',
-1579 silly get     'x-cache-hits': '1',
-1579 silly get     'x-timer': 'S1417145810.417854,VS0,VE30',
-1579 silly get     vary: 'Accept',
-1579 silly get     'content-length': '0',
-1579 silly get     'keep-alive': 'timeout=10, max=46',
-1579 silly get     connection: 'Keep-Alive' } ]
-1580 verbose etag https://registry.npmjs.org/grunt-contrib-copy from cache
-1581 http 304 https://registry.npmjs.org/grunt-wiredep
-1582 silly get cb [ 304,
-1582 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1582 silly get     server: 'Apache',
-1582 silly get     via: '1.1 varnish',
-1582 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1582 silly get     'cache-control': 'max-age=60',
-1582 silly get     etag: '"2KHF11WWDXGLE8B62RQ2RHXUA"',
-1582 silly get     age: '0',
-1582 silly get     'x-served-by': 'cache-ord1735-ORD',
-1582 silly get     'x-cache': 'MISS',
-1582 silly get     'x-cache-hits': '0',
-1582 silly get     'x-timer': 'S1417145810.158311,VS0,VE298',
-1582 silly get     vary: 'Accept',
-1582 silly get     'content-length': '0',
-1582 silly get     'keep-alive': 'timeout=10, max=46',
-1582 silly get     connection: 'Keep-Alive' } ]
-1583 verbose etag https://registry.npmjs.org/grunt-wiredep from cache
-1584 http 304 https://registry.npmjs.org/grunt-concurrent
-1585 silly get cb [ 304,
-1585 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1585 silly get     server: 'Apache',
-1585 silly get     via: '1.1 varnish',
-1585 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1585 silly get     'cache-control': 'max-age=60',
-1585 silly get     etag: '"CBSKL777KCDSUTIPUDIOVOEOO"',
-1585 silly get     age: '0',
-1585 silly get     'x-served-by': 'cache-ord1721-ORD',
-1585 silly get     'x-cache': 'HIT',
-1585 silly get     'x-cache-hits': '1',
-1585 silly get     'x-timer': 'S1417145810.171375,VS0,VE302',
-1585 silly get     vary: 'Accept',
-1585 silly get     'content-length': '0',
-1585 silly get     'keep-alive': 'timeout=10, max=45',
-1585 silly get     connection: 'Keep-Alive' } ]
-1586 verbose etag https://registry.npmjs.org/grunt-concurrent from cache
-1587 http 304 https://registry.npmjs.org/grunt-contrib-cssmin
-1588 silly get cb [ 304,
-1588 silly get   { date: 'Fri, 28 Nov 2014 03:36:50 GMT',
-1588 silly get     server: 'Apache',
-1588 silly get     via: '1.1 varnish',
-1588 silly get     'last-modified': 'Fri, 28 Nov 2014 03:36:50 GMT',
-1588 silly get     'cache-control': 'max-age=60',
-1588 silly get     etag: '"5GND3AEVYFBMXO4DE5O9TN2TC"',
-1588 silly get     age: '0',
-1588 silly get     'x-served-by': 'cache-ord1734-ORD',
-1588 silly get     'x-cache': 'HIT',
-1588 silly get     'x-cache-hits': '1',
-1588 silly get     'x-timer': 'S1417145810.469740,VS0,VE29',
-1588 silly get     vary: 'Accept',
-1588 silly get     'content-length': '0',
-1588 silly get     'keep-alive': 'timeout=10, max=42',
-1588 silly get     connection: 'Keep-Alive' } ]
-1589 verbose etag https://registry.npmjs.org/grunt-contrib-cssmin from cache
-1590 error Failed resolving git HEAD (undefined) fatal: ambiguous argument 'undefined': unknown revision or path not in the working tree.
-1590 error Failed resolving git HEAD (undefined) Use '--' to separate paths from revisions, like this:
-1590 error Failed resolving git HEAD (undefined) 'git <command> [<revision>...] -- [<file>...]'
-1591 verbose type called_non_callable
-1592 verbose stack TypeError: undefined is not a function
-1592 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\cache\add-remote-git.js:190:16
-1592 verbose stack     at ChildProcess.exithandler (child_process.js:652:7)
-1592 verbose stack     at ChildProcess.emit (events.js:98:17)
-1592 verbose stack     at maybeClose (child_process.js:756:16)
-1592 verbose stack     at Process.ChildProcess._handle.onexit (child_process.js:823:5)
-1593 verbose cwd c:\Users\user\Desktop\_wip\angular-tube
-1594 error Windows_NT 6.2.9200
-1595 error argv "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
-1596 error node v0.10.33
-1597 error npm  v2.1.9
-1598 error undefined is not a function
-1599 error If you need help, you may report this error at:
-1599 error     <http://github.com/npm/npm/issues>
-1600 verbose exit [ 1, true ]
+1555 verbose etag https://registry.npmjs.org/grunt-contrib-clean from cache
+1556 http 304 https://registry.npmjs.org/socket.io-client
+1557 silly get cb [ 304,
+1557 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1557 silly get     server: 'Apache',
+1557 silly get     via: '1.1 varnish',
+1557 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1557 silly get     'cache-control': 'max-age=60',
+1557 silly get     etag: '"88N07G0UABQYLUGN8U2MX0TZP"',
+1557 silly get     age: '0',
+1557 silly get     'x-served-by': 'cache-ord1724-ORD',
+1557 silly get     'x-cache': 'HIT',
+1557 silly get     'x-cache-hits': '1',
+1557 silly get     'x-timer': 'S1417145913.316754,VS0,VE303',
+1557 silly get     vary: 'Accept',
+1557 silly get     'content-length': '0',
+1557 silly get     'keep-alive': 'timeout=10, max=46',
+1557 silly get     connection: 'Keep-Alive' } ]
+1558 verbose etag https://registry.npmjs.org/socket.io-client from cache
+1559 silly addNameRange number 2 { name: 'grunt-wiredep', range: '>=1.8.0 <1.9.0', hasData: true }
+1560 silly addNameRange versions [ 'grunt-wiredep',
+1560 silly addNameRange   [ '1.7.0', '1.7.1', '1.8.0', '1.9.0', '2.0.0' ] ]
+1561 verbose addNamed grunt-wiredep@1.8.0
+1562 silly addNamed semver.valid 1.8.0
+1563 silly addNamed semver.validRange 1.8.0
+1564 http 304 https://registry.npmjs.org/grunt-contrib-concat
+1565 silly get cb [ 304,
+1565 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1565 silly get     server: 'Apache',
+1565 silly get     via: '1.1 varnish',
+1565 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1565 silly get     'cache-control': 'max-age=60',
+1565 silly get     etag: '"CTAFCVJJFRM66076G9UL8E2W4"',
+1565 silly get     age: '0',
+1565 silly get     'x-served-by': 'cache-ord1735-ORD',
+1565 silly get     'x-cache': 'HIT',
+1565 silly get     'x-cache-hits': '1',
+1565 silly get     'x-timer': 'S1417145913.617231,VS0,VE72',
+1565 silly get     vary: 'Accept',
+1565 silly get     'content-length': '0',
+1565 silly get     'keep-alive': 'timeout=10, max=45',
+1565 silly get     connection: 'Keep-Alive' } ]
+1566 verbose etag https://registry.npmjs.org/grunt-contrib-concat from cache
+1567 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt\0.4.5\package\package.json written
+1568 silly cache afterAdd grunt-wiredep@1.8.0
+1569 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-wiredep\1.8.0\package\package.json not in flight; writing
+1570 silly addNameRange number 2 { name: 'grunt-contrib-clean',
+1570 silly addNameRange   range: '>=0.5.0 <0.6.0',
+1570 silly addNameRange   hasData: true }
+1571 silly addNameRange versions [ 'grunt-contrib-clean',
+1571 silly addNameRange   [ '0.1.0',
+1571 silly addNameRange     '0.2.0',
+1571 silly addNameRange     '0.3.0',
+1571 silly addNameRange     '0.3.1',
+1571 silly addNameRange     '0.3.2',
+1571 silly addNameRange     '0.4.0',
+1571 silly addNameRange     '0.4.1',
+1571 silly addNameRange     '0.5.0',
+1571 silly addNameRange     '0.6.0',
+1571 silly addNameRange     '0.4.0-a',
+1571 silly addNameRange     '0.4.0-rc5',
+1571 silly addNameRange     '0.4.0-rc6' ] ]
+1572 verbose addNamed grunt-contrib-clean@0.5.0
+1573 silly addNamed semver.valid 0.5.0
+1574 silly addNamed semver.validRange 0.5.0
+1575 silly addNameRange number 2 { name: 'socket.io-client',
+1575 silly addNameRange   range: '>=1.0.6 <2.0.0',
+1575 silly addNameRange   hasData: true }
+1576 silly addNameRange versions [ 'socket.io-client',
+1576 silly addNameRange   [ '0.7.0',
+1576 silly addNameRange     '0.7.1',
+1576 silly addNameRange     '0.7.2',
+1576 silly addNameRange     '0.7.3',
+1576 silly addNameRange     '0.7.4',
+1576 silly addNameRange     '0.7.5',
+1576 silly addNameRange     '0.7.9',
+1576 silly addNameRange     '0.7.10',
+1576 silly addNameRange     '0.7.11',
+1576 silly addNameRange     '0.8.0',
+1576 silly addNameRange     '0.8.1',
+1576 silly addNameRange     '0.8.2',
+1576 silly addNameRange     '0.8.3',
+1576 silly addNameRange     '0.8.4',
+1576 silly addNameRange     '0.8.5',
+1576 silly addNameRange     '0.8.6',
+1576 silly addNameRange     '0.8.7',
+1576 silly addNameRange     '0.9.0',
+1576 silly addNameRange     '0.9.1',
+1576 silly addNameRange     '0.9.1-1',
+1576 silly addNameRange     '0.9.2',
+1576 silly addNameRange     '0.9.3',
+1576 silly addNameRange     '0.9.4',
+1576 silly addNameRange     '0.9.5',
+1576 silly addNameRange     '0.9.6',
+1576 silly addNameRange     '0.9.7',
+1576 silly addNameRange     '0.9.8',
+1576 silly addNameRange     '0.9.9',
+1576 silly addNameRange     '0.9.10',
+1576 silly addNameRange     '0.9.11',
+1576 silly addNameRange     '0.9.15',
+1576 silly addNameRange     '0.9.16',
+1576 silly addNameRange     '1.0.0-pre',
+1576 silly addNameRange     '1.0.0-pre2',
+1576 silly addNameRange     '1.0.0-pre3',
+1576 silly addNameRange     '1.0.0-pre4',
+1576 silly addNameRange     '1.0.0-pre5',
+1576 silly addNameRange     '0.9.17',
+1576 silly addNameRange     '1.0.1',
+1576 silly addNameRange     '1.0.2',
+1576 silly addNameRange     '1.0.3',
+1576 silly addNameRange     '1.0.4',
+1576 silly addNameRange     '1.0.5',
+1576 silly addNameRange     '1.0.6',
+1576 silly addNameRange     '1.1.0',
+1576 silly addNameRange     '1.2.0',
+1576 silly addNameRange     '1.2.1' ] ]
+1577 verbose addNamed socket.io-client@1.2.1
+1578 silly addNamed semver.valid 1.2.1
+1579 silly addNamed semver.validRange 1.2.1
+1580 http 304 https://registry.npmjs.org/grunt-contrib-cssmin
+1581 silly get cb [ 304,
+1581 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1581 silly get     server: 'Apache',
+1581 silly get     via: '1.1 varnish',
+1581 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1581 silly get     'cache-control': 'max-age=60',
+1581 silly get     etag: '"5GND3AEVYFBMXO4DE5O9TN2TC"',
+1581 silly get     age: '21',
+1581 silly get     'x-served-by': 'cache-ord1724-ORD',
+1581 silly get     'x-cache': 'HIT',
+1581 silly get     'x-cache-hits': '1',
+1581 silly get     'x-timer': 'S1417145913.736931,VS0,VE0',
+1581 silly get     vary: 'Accept',
+1581 silly get     'content-length': '0',
+1581 silly get     'keep-alive': 'timeout=10, max=45',
+1581 silly get     connection: 'Keep-Alive' } ]
+1582 verbose etag https://registry.npmjs.org/grunt-contrib-cssmin from cache
+1583 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socketio-jwt\2.3.5\package\package.json written
+1584 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-autoprefixer\0.7.6\package\package.json written
+1585 verbose git fetch -a origin (https://github.com/DaftMonk/grunt-build-control)
+1586 silly verifyOwnership skipping for windows
+1587 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-wiredep\1.8.0\package\package.json written
+1588 silly addNameRange number 2 { name: 'grunt-contrib-concat',
+1588 silly addNameRange   range: '>=0.4.0 <0.5.0',
+1588 silly addNameRange   hasData: true }
+1589 silly addNameRange versions [ 'grunt-contrib-concat',
+1589 silly addNameRange   [ '0.1.0',
+1589 silly addNameRange     '0.1.1',
+1589 silly addNameRange     '0.1.2',
+1589 silly addNameRange     '0.1.3',
+1589 silly addNameRange     '0.2.0',
+1589 silly addNameRange     '0.3.0',
+1589 silly addNameRange     '0.4.0',
+1589 silly addNameRange     '0.5.0',
+1589 silly addNameRange     '0.1.2-rc5',
+1589 silly addNameRange     '0.1.2-rc6' ] ]
+1590 verbose addNamed grunt-contrib-concat@0.4.0
+1591 silly addNamed semver.valid 0.4.0
+1592 silly addNamed semver.validRange 0.4.0
+1593 silly cache afterAdd grunt-contrib-clean@0.5.0
+1594 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-clean\0.5.0\package\package.json not in flight; writing
+1595 silly cache afterAdd socket.io-client@1.2.1
+1596 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io-client\1.2.1\package\package.json not in flight; writing
+1597 silly addNameRange number 2 { name: 'grunt-contrib-cssmin',
+1597 silly addNameRange   range: '>=0.9.0 <0.10.0',
+1597 silly addNameRange   hasData: true }
+1598 silly addNameRange versions [ 'grunt-contrib-cssmin',
+1598 silly addNameRange   [ '0.4.0',
+1598 silly addNameRange     '0.4.1',
+1598 silly addNameRange     '0.4.2',
+1598 silly addNameRange     '0.5.0',
+1598 silly addNameRange     '0.6.0',
+1598 silly addNameRange     '0.6.1',
+1598 silly addNameRange     '0.6.2',
+1598 silly addNameRange     '0.7.0',
+1598 silly addNameRange     '0.8.0',
+1598 silly addNameRange     '0.9.0',
+1598 silly addNameRange     '0.10.0' ] ]
+1599 verbose addNamed grunt-contrib-cssmin@0.9.0
+1600 silly addNamed semver.valid 0.9.0
+1601 silly addNamed semver.validRange 0.9.0
+1602 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-clean\0.5.0\package\package.json written
+1603 silly cache afterAdd grunt-contrib-concat@0.4.0
+1604 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-concat\0.4.0\package\package.json not in flight; writing
+1605 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\socket.io-client\1.2.1\package\package.json written
+1606 http 304 https://registry.npmjs.org/grunt-concurrent
+1607 silly get cb [ 304,
+1607 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1607 silly get     server: 'Apache',
+1607 silly get     via: '1.1 varnish',
+1607 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1607 silly get     'cache-control': 'max-age=60',
+1607 silly get     etag: '"CBSKL777KCDSUTIPUDIOVOEOO"',
+1607 silly get     age: '0',
+1607 silly get     'x-served-by': 'cache-ord1735-ORD',
+1607 silly get     'x-cache': 'HIT',
+1607 silly get     'x-cache-hits': '1',
+1607 silly get     'x-timer': 'S1417145913.547039,VS0,VE275',
+1607 silly get     vary: 'Accept',
+1607 silly get     'content-length': '0',
+1607 silly get     'keep-alive': 'timeout=10, max=45',
+1607 silly get     connection: 'Keep-Alive' } ]
+1608 verbose etag https://registry.npmjs.org/grunt-concurrent from cache
+1609 silly cache afterAdd grunt-contrib-cssmin@0.9.0
+1610 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-cssmin\0.9.0\package\package.json not in flight; writing
+1611 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-concat\0.4.0\package\package.json written
+1612 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-cssmin\0.9.0\package\package.json written
+1613 silly addNameRange number 2 { name: 'grunt-concurrent',
+1613 silly addNameRange   range: '>=0.5.0 <0.6.0',
+1613 silly addNameRange   hasData: true }
+1614 silly addNameRange versions [ 'grunt-concurrent',
+1614 silly addNameRange   [ '0.1.0',
+1614 silly addNameRange     '0.1.1',
+1614 silly addNameRange     '0.2.0',
+1614 silly addNameRange     '0.3.0',
+1614 silly addNameRange     '0.3.1',
+1614 silly addNameRange     '0.4.0',
+1614 silly addNameRange     '0.4.1',
+1614 silly addNameRange     '0.4.2',
+1614 silly addNameRange     '0.4.3',
+1614 silly addNameRange     '0.5.0',
+1614 silly addNameRange     '1.0.0' ] ]
+1615 verbose addNamed grunt-concurrent@0.5.0
+1616 silly addNamed semver.valid 0.5.0
+1617 silly addNamed semver.validRange 0.5.0
+1618 silly cache afterAdd grunt-concurrent@0.5.0
+1619 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-concurrent\0.5.0\package\package.json not in flight; writing
+1620 http 304 https://registry.npmjs.org/grunt-contrib-jshint
+1621 silly get cb [ 304,
+1621 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1621 silly get     server: 'Apache',
+1621 silly get     via: '1.1 varnish',
+1621 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1621 silly get     'cache-control': 'max-age=60',
+1621 silly get     etag: '"1E33P892091AFUP9LHMQLHMTY"',
+1621 silly get     age: '15',
+1621 silly get     'x-served-by': 'cache-ord1724-ORD',
+1621 silly get     'x-cache': 'HIT',
+1621 silly get     'x-cache-hits': '1',
+1621 silly get     'x-timer': 'S1417145913.857200,VS0,VE0',
+1621 silly get     vary: 'Accept',
+1621 silly get     'content-length': '0',
+1621 silly get     'keep-alive': 'timeout=10, max=44',
+1621 silly get     connection: 'Keep-Alive' } ]
+1622 verbose etag https://registry.npmjs.org/grunt-contrib-jshint from cache
+1623 http 304 https://registry.npmjs.org/grunt-contrib-copy
+1624 silly get cb [ 304,
+1624 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1624 silly get     server: 'Apache',
+1624 silly get     via: '1.1 varnish',
+1624 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1624 silly get     'cache-control': 'max-age=60',
+1624 silly get     etag: '"E2ZA3AF9KEV04V24IDWS2F6YH"',
+1624 silly get     age: '0',
+1624 silly get     'x-served-by': 'cache-ord1728-ORD',
+1624 silly get     'x-cache': 'HIT',
+1624 silly get     'x-cache-hits': '1',
+1624 silly get     'x-timer': 'S1417145913.578543,VS0,VE303',
+1624 silly get     vary: 'Accept',
+1624 silly get     'content-length': '0',
+1624 silly get     'keep-alive': 'timeout=10, max=44',
+1624 silly get     connection: 'Keep-Alive' } ]
+1625 verbose etag https://registry.npmjs.org/grunt-contrib-copy from cache
+1626 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-concurrent\0.5.0\package\package.json written
+1627 silly addNameRange number 2 { name: 'grunt-contrib-jshint',
+1627 silly addNameRange   range: '>=0.10.0 <0.11.0',
+1627 silly addNameRange   hasData: true }
+1628 silly addNameRange versions [ 'grunt-contrib-jshint',
+1628 silly addNameRange   [ '0.1.0',
+1628 silly addNameRange     '0.1.1',
+1628 silly addNameRange     '0.2.0',
+1628 silly addNameRange     '0.3.0',
+1628 silly addNameRange     '0.4.0',
+1628 silly addNameRange     '0.4.1',
+1628 silly addNameRange     '0.4.2',
+1628 silly addNameRange     '0.4.3',
+1628 silly addNameRange     '0.5.0',
+1628 silly addNameRange     '0.5.1',
+1628 silly addNameRange     '0.5.2',
+1628 silly addNameRange     '0.5.3',
+1628 silly addNameRange     '0.5.4',
+1628 silly addNameRange     '0.6.0',
+1628 silly addNameRange     '0.6.1',
+1628 silly addNameRange     '0.6.2',
+1628 silly addNameRange     '0.6.3',
+1628 silly addNameRange     '0.6.4',
+1628 silly addNameRange     '0.6.5',
+1628 silly addNameRange     '0.7.0',
+1628 silly addNameRange     '0.7.1',
+1628 silly addNameRange     '0.7.2',
+1628 silly addNameRange     '0.8.0',
+1628 silly addNameRange     '0.9.0',
+1628 silly addNameRange     '0.9.1',
+1628 silly addNameRange     '0.9.2',
+1628 silly addNameRange     '0.10.0',
+1628 silly addNameRange     '0.1.1-rc5',
+1628 silly addNameRange     '0.1.1-rc6' ] ]
+1629 verbose addNamed grunt-contrib-jshint@0.10.0
+1630 silly addNamed semver.valid 0.10.0
+1631 silly addNamed semver.validRange 0.10.0
+1632 info git [ 'rev-list', '-n1', undefined ]
+1633 silly addNameRange number 2 { name: 'grunt-contrib-copy',
+1633 silly addNameRange   range: '>=0.5.0 <0.6.0',
+1633 silly addNameRange   hasData: true }
+1634 silly addNameRange versions [ 'grunt-contrib-copy',
+1634 silly addNameRange   [ '0.2.0',
+1634 silly addNameRange     '0.2.1',
+1634 silly addNameRange     '0.2.2',
+1634 silly addNameRange     '0.2.3',
+1634 silly addNameRange     '0.2.4',
+1634 silly addNameRange     '0.3.0',
+1634 silly addNameRange     '0.3.1',
+1634 silly addNameRange     '0.3.2',
+1634 silly addNameRange     '0.4.0',
+1634 silly addNameRange     '0.4.1',
+1634 silly addNameRange     '0.5.0',
+1634 silly addNameRange     '0.6.0',
+1634 silly addNameRange     '0.7.0',
+1634 silly addNameRange     '0.4.0-rc7' ] ]
+1635 verbose addNamed grunt-contrib-copy@0.5.0
+1636 silly addNamed semver.valid 0.5.0
+1637 silly addNamed semver.validRange 0.5.0
+1638 silly cache afterAdd grunt-contrib-jshint@0.10.0
+1639 verbose afterAdd C:\Users\user\AppData\Roaming\npm-cache\grunt-contrib-jshint\0.10.0\package\package.json not in flight; writing
+1640 http 304 https://registry.npmjs.org/grunt-contrib-watch
+1641 silly get cb [ 304,
+1641 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1641 silly get     server: 'Apache',
+1641 silly get     via: '1.1 varnish',
+1641 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1641 silly get     'cache-control': 'max-age=60',
+1641 silly get     etag: '"1K2NM4G9QWVB0K3XRG8FC18BU"',
+1641 silly get     age: '21',
+1641 silly get     'x-served-by': 'cache-ord1735-ORD',
+1641 silly get     'x-cache': 'HIT',
+1641 silly get     'x-cache-hits': '1',
+1641 silly get     'x-timer': 'S1417145913.957373,VS0,VE0',
+1641 silly get     vary: 'Accept',
+1641 silly get     'content-length': '0',
+1641 silly get     'keep-alive': 'timeout=10, max=44',
+1641 silly get     connection: 'Keep-Alive' } ]
+1642 verbose etag https://registry.npmjs.org/grunt-contrib-watch from cache
+1643 http 304 https://registry.npmjs.org/grunt-contrib-imagemin
+1644 silly get cb [ 304,
+1644 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1644 silly get     server: 'Apache',
+1644 silly get     via: '1.1 varnish',
+1644 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1644 silly get     'cache-control': 'max-age=60',
+1644 silly get     etag: '"68MK4V8VVMV8YEHCFYIAP125I"',
+1644 silly get     age: '0',
+1644 silly get     'x-served-by': 'cache-ord1735-ORD',
+1644 silly get     'x-cache': 'MISS',
+1644 silly get     'x-cache-hits': '0',
+1644 silly get     'x-timer': 'S1417145913.827229,VS0,VE133',
+1644 silly get     vary: 'Accept',
+1644 silly get     'content-length': '0',
+1644 silly get     'keep-alive': 'timeout=10, max=44',
+1644 silly get     connection: 'Keep-Alive' } ]
+1645 verbose etag https://registry.npmjs.org/grunt-contrib-imagemin from cache
+1646 http 304 https://registry.npmjs.org/grunt-contrib-uglify
+1647 silly get cb [ 304,
+1647 silly get   { date: 'Fri, 28 Nov 2014 03:38:33 GMT',
+1647 silly get     server: 'Apache',
+1647 silly get     via: '1.1 varnish',
+1647 silly get     'last-modified': 'Fri, 28 Nov 2014 03:38:33 GMT',
+1647 silly get     'cache-control': 'max-age=60',
+1647 silly get     etag: '"8UFL91HZLTSUNXL9GLRA9AGDK"',
+1647 silly get     age: '21',
+1647 silly get     'x-served-by': 'cache-ord1724-ORD',
+1647 silly get     'x-cache': 'HIT',
+1647 silly get     'x-cache-hits': '1',
+1647 silly get     'x-timer': 'S1417145913.967348,VS0,VE0',
+1647 silly get     vary: 'Accept',
+1647 silly get     'content-length': '0',
+1647 silly get     'keep-alive': 'timeout=10, max=43',
+1647 silly get     connection: 'Keep-Alive' } ]
+1648 verbose etag https://registry.npmjs.org/grunt-contrib-uglify from cache
+1649 error Failed resolving git HEAD (undefined) fatal: ambiguous argument 'undefined': unknown revision or path not in the working tree.
+1649 error Failed resolving git HEAD (undefined) Use '--' to separate paths from revisions, like this:
+1649 error Failed resolving git HEAD (undefined) 'git <command> [<revision>...] -- [<file>...]'
+1650 verbose type called_non_callable
+1651 verbose stack TypeError: undefined is not a function
+1651 verbose stack     at c:\Program Files\nodejs\node_modules\npm\lib\cache\add-remote-git.js:190:16
+1651 verbose stack     at ChildProcess.exithandler (child_process.js:652:7)
+1651 verbose stack     at ChildProcess.emit (events.js:98:17)
+1651 verbose stack     at maybeClose (child_process.js:756:16)
+1651 verbose stack     at Socket.<anonymous> (child_process.js:969:11)
+1651 verbose stack     at Socket.emit (events.js:95:17)
+1651 verbose stack     at Pipe.close (net.js:465:12)
+1652 verbose cwd c:\Users\user\Desktop\_wip\angular-tube
+1653 error Windows_NT 6.2.9200
+1654 error argv "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+1655 error node v0.10.33
+1656 error npm  v2.1.9
+1657 error undefined is not a function
+1658 error If you need help, you may report this error at:
+1658 error     <http://github.com/npm/npm/issues>
+1659 verbose exit [ 1, true ]
